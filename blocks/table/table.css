@@ -1,3 +1,4 @@
+/* stylelint-disable no-descending-specificity */
 .table.block {
   width: 100%;
   overflow-x: auto;
@@ -50,18 +51,195 @@
   margin-top: 0.25em;
 }
 
-/* no header variant */
 .table.block.no-header table tbody tr {
   border-top: 1px solid;
 }
 
-/* striped variant */
-.table.block.striped tbody tr:nth-child(odd) {
-  background-color: var(--overlay-background-color);
+
+.table.striped.bordered.tablestripedbordered4 {
+  width: 100%;
+  overflow-x: auto;
+  background: #fff;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-/* bordered variant */
-.table.block.bordered table th,
-.table.block.bordered table td {
-  border: 1px solid;
+/* Use CSS Grid for desktop/tablet: two columns, align headers and content */
+@media (width >= 700px) {
+  .table.striped.bordered.tablestripedbordered4 table {
+    display: grid;
+    grid-template-columns: 142px 1fr;
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0;
+    background: #fff;
+  }
+
+  .table.striped.bordered.tablestripedbordered4 thead,
+  .table.striped.bordered.tablestripedbordered4 tbody {
+    display: contents;
+  }
+
+  .table.striped.bordered.tablestripedbordered4 tr {
+    display: contents;
+  }
+
+  .table.striped.bordered.tablestripedbordered4 th,
+  .table.striped.bordered.tablestripedbordered4 td {
+    display: block;
+    min-width: 0;
+    box-sizing: border-box;
+    border: 1px solid #dfe3e7;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+  }
+}
+
+/* Blue left column for header cells only */
+.table.striped.bordered.tablestripedbordered4 th,
+.table.striped.bordered.tablestripedbordered4 td:first-child:not(:empty) {
+  background: #232e8a;
+  color: #fff;
+  font-weight: 700;
+  font-size: 0.98em;
+  letter-spacing: 0.01em;
+  padding: 7px 15px 7px 17px;
+  vertical-align: top;
+  border: 1px solid #dfe3e7;
+}
+
+/* Make sure right cells are always white, even if in header row (fix header-row blue bleeding) */
+.table.striped.bordered.tablestripedbordered4 th + th,
+.table.striped.bordered.tablestripedbordered4 td + td {
+  background: #fff;
+  color: #1a237e;
+  font-size: 0.98em;
+  font-weight: 400;
+  padding: 10px 14px;
+  vertical-align: top;
+  border: 1px solid #dfe3e7;
+  word-break: break-word;
+}
+
+/* Remove blue for empty left cells (i.e. content-only rows) */
+.table.striped.bordered.tablestripedbordered4 td:first-child:empty {
+  background: #fff;
+  border-left: 1px solid #dfe3e7;
+  border-right: 1px solid #dfe3e7;
+  padding: 0;
+}
+
+/* Header row styling (keep compact) */
+.table.striped.bordered.tablestripedbordered4 thead tr th,
+.table.striped.bordered.tablestripedbordered4 thead th {
+  background: #232e8a;
+  color: #fff;
+  font-size: 1.04em;
+  font-weight: 700;
+  padding: 7px 15px 7px 17px;
+  border-bottom: 1px solid #dfe3e7;
+  vertical-align: top;
+}
+
+/* Remove striped rows for clean look */
+.table.striped.bordered.tablestripedbordered4 tbody tr:nth-child(odd) th,
+.table.striped.bordered.tablestripedbordered4 tbody tr:nth-child(odd) td {
+  background: inherit;
+}
+
+/* Remove table double border */
+.table.striped.bordered.tablestripedbordered4 table {
+  border: none;
+}
+
+/* List and bullet styling */
+.table.striped.bordered.tablestripedbordered4 ul,
+.table.striped.bordered.tablestripedbordered4 ol {
+  margin: 0;
+  padding-left: 22px;
+  line-height: 1.5;
+}
+
+.table.striped.bordered.tablestripedbordered4 li {
+  margin-bottom: 6px;
+}
+
+.table.striped.bordered.tablestripedbordered4 li:last-child {
+  margin-bottom: 0;
+}
+
+.table.striped.bordered.tablestripedbordered4 ul ul,
+.table.striped.bordered.tablestripedbordered4 ul ol,
+.table.striped.bordered.tablestripedbordered4 ol ul,
+.table.striped.bordered.tablestripedbordered4 ol ol {
+  margin-top: 4px;
+  margin-bottom: 4px;
+  padding-left: 16px;
+}
+
+/* Links */
+.table.striped.bordered.tablestripedbordered4 a {
+  color: #03c;
+  text-decoration: underline;
+  font-weight: 400;
+}
+
+.table.striped.bordered.tablestripedbordered4 strong a,
+.table.striped.bordered.tablestripedbordered4 a strong {
+  color: #03c;
+  font-weight: 700;
+}
+
+.table.striped.bordered.tablestripedbordered4 a:hover {
+  color: #0057b8;
+  text-decoration: underline;
+}
+
+/* Remove extra spacing for p inside cells */
+.table.striped.bordered.tablestripedbordered4 th p,
+.table.striped.bordered.tablestripedbordered4 td p {
+  margin: 0;
+}
+
+/* Details for nested headers in left column */
+.table.striped.bordered.tablestripedbordered4 th p,
+.table.striped.bordered.tablestripedbordered4 td:first-child p {
+  font-weight: 700;
+  color: #fff;
+  font-size: inherit;
+  margin: 0;
+}
+
+/* Responsive: Stack columns vertically on small screens */
+@media (width <= 700px) {
+  .table.striped.bordered.tablestripedbordered4 table,
+  .table.striped.bordered.tablestripedbordered4 tbody,
+  .table.striped.bordered.tablestripedbordered4 tr {
+    display: block;
+    width: 100%;
+  }
+
+  .table.striped.bordered.tablestripedbordered4 th,
+  .table.striped.bordered.tablestripedbordered4 td {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    box-sizing: border-box;
+    padding: 10px 12px;
+  }
+
+  .table.striped.bordered.tablestripedbordered4 th,
+  .table.striped.bordered.tablestripedbordered4 td:first-child {
+    min-width: unset;
+    max-width: 100%;
+    width: 100%;
+    padding: 10px 12px;
+  }
+}
+
+/* Ensure top vertical alignment for all cells */
+.table.striped.bordered.tablestripedbordered4 th,
+.table.striped.bordered.tablestripedbordered4 td {
+  vertical-align: top;
 }
