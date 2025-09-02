@@ -1,0 +1,1242 @@
+{
+  "fragments": [
+    {
+      "name": "nav",
+      "path": "/nav",
+      "totalBoxes": 1,
+      "instances": [
+        {
+          "url": "https://www.medtronic.com/ch-de/our-company/leadership.html",
+          "urlHash": "004cf660d77f40bc002a924a5a590415b85336ec",
+          "uuid": "004cf660-00-26aa3b597b881493159e12394bdd47b00cc669e2",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/index.html",
+          "urlHash": "257f8b86a840814e544dfc1f887b6c5f2f41fb55",
+          "uuid": "257f8b86-00-26aa3b597b881493159e12394bdd47b00cc669e2",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/medizinische-fachpersonen/produkte.html",
+          "urlHash": "27f7f303788f07bfb3a11bb38b0a08944d4bf96b",
+          "uuid": "27f7f303-00-4a92fbc8b0a99f90d4f6b2d9c7ed9b2f57e17ac5",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/medizinische-fachpersonen/therapien-prozeduren.html",
+          "urlHash": "51029476f425dd2e7c41acab49fe8f78e146db17",
+          "uuid": "51029476-00-4a92fbc8b0a99f90d4f6b2d9c7ed9b2f57e17ac5",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/patienten/erkrankungen.html",
+          "urlHash": "690f889aa566b67182e1f65bde481f6c75e62e2c",
+          "uuid": "690f889a-00-26aa3b597b881493159e12394bdd47b00cc669e2",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/patienten.html",
+          "urlHash": "7e4556b120ff7309acaf2eb8bbe0a6e7459dffc9",
+          "uuid": "7e4556b1-00-26aa3b597b881493159e12394bdd47b00cc669e2",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/our-company.html",
+          "urlHash": "90fe8e1ee3e979d5db4f9c657c4fb123c6f56148",
+          "uuid": "90fe8e1e-00-26aa3b597b881493159e12394bdd47b00cc669e2",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/patienten/produkte-therapien.html",
+          "urlHash": "a5cbbf99306366a6a601aa6345d3b03971835fd0",
+          "uuid": "a5cbbf99-00-26aa3b597b881493159e12394bdd47b00cc669e2",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/our-company/key-facts.html",
+          "urlHash": "c492c71c1a79678e3e425713b7f0becc98fff206",
+          "uuid": "c492c71c-00-26aa3b597b881493159e12394bdd47b00cc669e2",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/medizinische-fachpersonen.html",
+          "urlHash": "f3403bb6ed9d56644cf9e6845f029b8ea8f0c21d",
+          "uuid": "f3403bb6-00-4a92fbc8b0a99f90d4f6b2d9c7ed9b2f57e17ac5",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]"
+        }
+      ],
+      "styles": {
+        "height": 140,
+        "background": "rgb(20, 15, 75) none repeat scroll 0% 0% / auto padding-box border-box"
+      }
+    },
+    {
+      "name": "footer",
+      "path": "/footer",
+      "totalBoxes": 1,
+      "instances": [
+        {
+          "url": "https://www.medtronic.com/ch-de/our-company/leadership.html",
+          "urlHash": "004cf660d77f40bc002a924a5a590415b85336ec",
+          "uuid": "004cf660-16-19038fd27da9e7b8da62b28404784fc4a50b2d31",
+          "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[2]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/index.html",
+          "urlHash": "257f8b86a840814e544dfc1f887b6c5f2f41fb55",
+          "uuid": "257f8b86-11-e052e1d2eafda637c0977ba8472ec61df353e98f",
+          "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[6]/footer[1]/section[2]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/medizinische-fachpersonen/produkte.html",
+          "urlHash": "27f7f303788f07bfb3a11bb38b0a08944d4bf96b",
+          "uuid": "27f7f303-06-add54bcb8f055de42915ab5371264bb19835b0f0",
+          "xpath": "/html[1]/body[1]"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/medizinische-fachpersonen/therapien-prozeduren.html",
+          "urlHash": "51029476f425dd2e7c41acab49fe8f78e146db17",
+          "uuid": "51029476-06-add54bcb8f055de42915ab5371264bb19835b0f0",
+          "xpath": "/html[1]/body[1]"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/patienten/erkrankungen.html",
+          "urlHash": "690f889aa566b67182e1f65bde481f6c75e62e2c",
+          "uuid": "690f889a-09-19038fd27da9e7b8da62b28404784fc4a50b2d31",
+          "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[2]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/patienten.html",
+          "urlHash": "7e4556b120ff7309acaf2eb8bbe0a6e7459dffc9",
+          "uuid": "7e4556b1-08-19038fd27da9e7b8da62b28404784fc4a50b2d31",
+          "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[2]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/our-company.html",
+          "urlHash": "90fe8e1ee3e979d5db4f9c657c4fb123c6f56148",
+          "uuid": "90fe8e1e-14-19038fd27da9e7b8da62b28404784fc4a50b2d31",
+          "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[2]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/patienten/produkte-therapien.html",
+          "urlHash": "a5cbbf99306366a6a601aa6345d3b03971835fd0",
+          "uuid": "a5cbbf99-09-19038fd27da9e7b8da62b28404784fc4a50b2d31",
+          "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[2]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/our-company/key-facts.html",
+          "urlHash": "c492c71c1a79678e3e425713b7f0becc98fff206",
+          "uuid": "c492c71c-16-19038fd27da9e7b8da62b28404784fc4a50b2d31",
+          "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[2]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/medizinische-fachpersonen.html",
+          "urlHash": "f3403bb6ed9d56644cf9e6845f029b8ea8f0c21d",
+          "uuid": "f3403bb6-06-add54bcb8f055de42915ab5371264bb19835b0f0",
+          "xpath": "/html[1]/body[1]"
+        }
+      ],
+      "styles": {
+        "background": "rgb(20, 15, 75) none repeat scroll 0% 0% / auto padding-box border-box"
+      }
+    }
+  ],
+  "blocks": [
+    {
+      "name": "Table (striped & bordered)",
+      "cluster": 1,
+      "source": "Table (striped, bordered)",
+      "target": "Table (striped, bordered, tableStripedBordered1)",
+      "key": "tableStripedBordered1",
+      "instances": [
+        {
+          "url": "https://www.medtronic.com/ch-de/medizinische-fachpersonen/produkte.html",
+          "urlHash": "27f7f303788f07bfb3a11bb38b0a08944d4bf96b",
+          "uuid": "27f7f303-06-add54bcb8f055de42915ab5371264bb19835b0f0",
+          "xpath": "/html[1]/body[1]"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/medizinische-fachpersonen/therapien-prozeduren.html",
+          "urlHash": "51029476f425dd2e7c41acab49fe8f78e146db17",
+          "uuid": "51029476-06-add54bcb8f055de42915ab5371264bb19835b0f0",
+          "xpath": "/html[1]/body[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 2,
+      "source": "Columns",
+      "target": "Columns (columns2)",
+      "key": "columns2",
+      "instances": [
+        {
+          "url": "https://www.medtronic.com/ch-de/our-company/leadership.html",
+          "urlHash": "004cf660d77f40bc002a924a5a590415b85336ec",
+          "uuid": "004cf660-15-474fe92ffd44591550f06a9e98db44e2e2b42734",
+          "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[2]/div[1]/div[1]/nav[1]/ul[1]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/index.html",
+          "urlHash": "257f8b86a840814e544dfc1f887b6c5f2f41fb55",
+          "uuid": "257f8b86-10-77a2b79ff7632687bd917cba5cb7b74c3f409a8c",
+          "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[6]/footer[1]/section[2]/div[1]/div[1]/nav[1]/ul[1]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/medizinische-fachpersonen/produkte.html",
+          "urlHash": "27f7f303788f07bfb3a11bb38b0a08944d4bf96b",
+          "uuid": "27f7f303-05-474fe92ffd44591550f06a9e98db44e2e2b42734",
+          "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[2]/div[1]/div[1]/nav[1]/ul[1]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/medizinische-fachpersonen/therapien-prozeduren.html",
+          "urlHash": "51029476f425dd2e7c41acab49fe8f78e146db17",
+          "uuid": "51029476-05-474fe92ffd44591550f06a9e98db44e2e2b42734",
+          "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[2]/div[1]/div[1]/nav[1]/ul[1]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/patienten/erkrankungen.html",
+          "urlHash": "690f889aa566b67182e1f65bde481f6c75e62e2c",
+          "uuid": "690f889a-08-474fe92ffd44591550f06a9e98db44e2e2b42734",
+          "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[2]/div[1]/div[1]/nav[1]/ul[1]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/patienten.html",
+          "urlHash": "7e4556b120ff7309acaf2eb8bbe0a6e7459dffc9",
+          "uuid": "7e4556b1-07-474fe92ffd44591550f06a9e98db44e2e2b42734",
+          "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[2]/div[1]/div[1]/nav[1]/ul[1]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/our-company.html",
+          "urlHash": "90fe8e1ee3e979d5db4f9c657c4fb123c6f56148",
+          "uuid": "90fe8e1e-13-474fe92ffd44591550f06a9e98db44e2e2b42734",
+          "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[2]/div[1]/div[1]/nav[1]/ul[1]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/patienten/produkte-therapien.html",
+          "urlHash": "a5cbbf99306366a6a601aa6345d3b03971835fd0",
+          "uuid": "a5cbbf99-08-474fe92ffd44591550f06a9e98db44e2e2b42734",
+          "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[2]/div[1]/div[1]/nav[1]/ul[1]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/our-company/key-facts.html",
+          "urlHash": "c492c71c1a79678e3e425713b7f0becc98fff206",
+          "uuid": "c492c71c-15-474fe92ffd44591550f06a9e98db44e2e2b42734",
+          "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[2]/div[1]/div[1]/nav[1]/ul[1]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/medizinische-fachpersonen.html",
+          "urlHash": "f3403bb6ed9d56644cf9e6845f029b8ea8f0c21d",
+          "uuid": "f3403bb6-05-474fe92ffd44591550f06a9e98db44e2e2b42734",
+          "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[2]/div[1]/div[1]/nav[1]/ul[1]",
+          "section": "section-3"
+        }
+      ]
+    },
+    {
+      "name": "header",
+      "cluster": 3,
+      "source": "Header",
+      "target": "Header (header3)",
+      "key": "header3",
+      "instances": [
+        {
+          "url": "https://www.medtronic.com/ch-de/our-company/leadership.html",
+          "urlHash": "004cf660d77f40bc002a924a5a590415b85336ec",
+          "uuid": "004cf660-00-26aa3b597b881493159e12394bdd47b00cc669e2",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/index.html",
+          "urlHash": "257f8b86a840814e544dfc1f887b6c5f2f41fb55",
+          "uuid": "257f8b86-00-26aa3b597b881493159e12394bdd47b00cc669e2",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/patienten/erkrankungen.html",
+          "urlHash": "690f889aa566b67182e1f65bde481f6c75e62e2c",
+          "uuid": "690f889a-00-26aa3b597b881493159e12394bdd47b00cc669e2",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/header[1]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/patienten.html",
+          "urlHash": "7e4556b120ff7309acaf2eb8bbe0a6e7459dffc9",
+          "uuid": "7e4556b1-00-26aa3b597b881493159e12394bdd47b00cc669e2",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/header[1]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/our-company.html",
+          "urlHash": "90fe8e1ee3e979d5db4f9c657c4fb123c6f56148",
+          "uuid": "90fe8e1e-00-26aa3b597b881493159e12394bdd47b00cc669e2",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/patienten/produkte-therapien.html",
+          "urlHash": "a5cbbf99306366a6a601aa6345d3b03971835fd0",
+          "uuid": "a5cbbf99-00-26aa3b597b881493159e12394bdd47b00cc669e2",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/header[1]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/our-company/key-facts.html",
+          "urlHash": "c492c71c1a79678e3e425713b7f0becc98fff206",
+          "uuid": "c492c71c-00-26aa3b597b881493159e12394bdd47b00cc669e2",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/header[1]"
+        }
+      ]
+    },
+    {
+      "name": "Table (striped & bordered)",
+      "cluster": 4,
+      "source": "Table (striped, bordered)",
+      "target": "Table (striped, bordered, tableStripedBordered4)",
+      "key": "tableStripedBordered4",
+      "instances": [
+        {
+          "url": "https://www.medtronic.com/ch-de/patienten/erkrankungen.html",
+          "urlHash": "690f889aa566b67182e1f65bde481f6c75e62e2c",
+          "uuid": "690f889a-04-5449b7c1b06633a97fe1667f0908467eae4773f5",
+          "xpath": "/html[1]/body[1]/div[2]/div[5]/div[4]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 5,
+      "source": "Columns",
+      "target": "Columns (columns5)",
+      "key": "columns5",
+      "instances": [
+        {
+          "url": "https://www.medtronic.com/ch-de/our-company/leadership.html",
+          "urlHash": "004cf660d77f40bc002a924a5a590415b85336ec",
+          "uuid": "004cf660-01-3b989459737d0e163187f1839618ecf872787c80",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/index.html",
+          "urlHash": "257f8b86a840814e544dfc1f887b6c5f2f41fb55",
+          "uuid": "257f8b86-01-3b989459737d0e163187f1839618ecf872787c80",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/patienten/erkrankungen.html",
+          "urlHash": "690f889aa566b67182e1f65bde481f6c75e62e2c",
+          "uuid": "690f889a-01-3b989459737d0e163187f1839618ecf872787c80",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/patienten.html",
+          "urlHash": "7e4556b120ff7309acaf2eb8bbe0a6e7459dffc9",
+          "uuid": "7e4556b1-01-3b989459737d0e163187f1839618ecf872787c80",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/our-company.html",
+          "urlHash": "90fe8e1ee3e979d5db4f9c657c4fb123c6f56148",
+          "uuid": "90fe8e1e-01-3b989459737d0e163187f1839618ecf872787c80",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/patienten/produkte-therapien.html",
+          "urlHash": "a5cbbf99306366a6a601aa6345d3b03971835fd0",
+          "uuid": "a5cbbf99-01-3b989459737d0e163187f1839618ecf872787c80",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/our-company/key-facts.html",
+          "urlHash": "c492c71c1a79678e3e425713b7f0becc98fff206",
+          "uuid": "c492c71c-01-3b989459737d0e163187f1839618ecf872787c80",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 6,
+      "source": "Columns",
+      "target": "Columns (columns6)",
+      "key": "columns6",
+      "instances": [
+        {
+          "url": "https://www.medtronic.com/ch-de/our-company/leadership.html",
+          "urlHash": "004cf660d77f40bc002a924a5a590415b85336ec",
+          "uuid": "004cf660-13-03a848ac135f5b5083604752948eb7dcbd8885f8",
+          "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[1]/div[1]/div[2]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/index.html",
+          "urlHash": "257f8b86a840814e544dfc1f887b6c5f2f41fb55",
+          "uuid": "257f8b86-08-a60b8efacd99852bfbd018559947f704c7bc063a",
+          "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[6]/footer[1]/section[1]/div[1]/div[2]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/medizinische-fachpersonen/produkte.html",
+          "urlHash": "27f7f303788f07bfb3a11bb38b0a08944d4bf96b",
+          "uuid": "27f7f303-03-03a848ac135f5b5083604752948eb7dcbd8885f8",
+          "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[1]/div[1]/div[2]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/medizinische-fachpersonen/therapien-prozeduren.html",
+          "urlHash": "51029476f425dd2e7c41acab49fe8f78e146db17",
+          "uuid": "51029476-03-03a848ac135f5b5083604752948eb7dcbd8885f8",
+          "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[1]/div[1]/div[2]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/patienten/erkrankungen.html",
+          "urlHash": "690f889aa566b67182e1f65bde481f6c75e62e2c",
+          "uuid": "690f889a-06-03a848ac135f5b5083604752948eb7dcbd8885f8",
+          "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[1]/div[1]/div[2]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/patienten.html",
+          "urlHash": "7e4556b120ff7309acaf2eb8bbe0a6e7459dffc9",
+          "uuid": "7e4556b1-05-03a848ac135f5b5083604752948eb7dcbd8885f8",
+          "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[1]/div[1]/div[2]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/our-company.html",
+          "urlHash": "90fe8e1ee3e979d5db4f9c657c4fb123c6f56148",
+          "uuid": "90fe8e1e-11-03a848ac135f5b5083604752948eb7dcbd8885f8",
+          "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[1]/div[1]/div[2]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/patienten/produkte-therapien.html",
+          "urlHash": "a5cbbf99306366a6a601aa6345d3b03971835fd0",
+          "uuid": "a5cbbf99-06-03a848ac135f5b5083604752948eb7dcbd8885f8",
+          "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[1]/div[1]/div[2]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/our-company/key-facts.html",
+          "urlHash": "c492c71c1a79678e3e425713b7f0becc98fff206",
+          "uuid": "c492c71c-13-03a848ac135f5b5083604752948eb7dcbd8885f8",
+          "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[1]/div[1]/div[2]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/medizinische-fachpersonen.html",
+          "urlHash": "f3403bb6ed9d56644cf9e6845f029b8ea8f0c21d",
+          "uuid": "f3403bb6-03-03a848ac135f5b5083604752948eb7dcbd8885f8",
+          "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[1]/div[1]/div[2]",
+          "section": "section-3"
+        }
+      ]
+    },
+    {
+      "name": "header",
+      "cluster": 7,
+      "source": "Header",
+      "target": "Header (header7)",
+      "key": "header7",
+      "instances": [
+        {
+          "url": "https://www.medtronic.com/ch-de/medizinische-fachpersonen/produkte.html",
+          "urlHash": "27f7f303788f07bfb3a11bb38b0a08944d4bf96b",
+          "uuid": "27f7f303-00-4a92fbc8b0a99f90d4f6b2d9c7ed9b2f57e17ac5",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/medizinische-fachpersonen/therapien-prozeduren.html",
+          "urlHash": "51029476f425dd2e7c41acab49fe8f78e146db17",
+          "uuid": "51029476-00-4a92fbc8b0a99f90d4f6b2d9c7ed9b2f57e17ac5",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/medizinische-fachpersonen.html",
+          "urlHash": "f3403bb6ed9d56644cf9e6845f029b8ea8f0c21d",
+          "uuid": "f3403bb6-00-4a92fbc8b0a99f90d4f6b2d9c7ed9b2f57e17ac5",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]",
+          "section": "section-3"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 8,
+      "source": "Cards",
+      "target": "Cards (cards8)",
+      "key": "cards8",
+      "instances": [
+        {
+          "url": "https://www.medtronic.com/ch-de/patienten.html",
+          "urlHash": "7e4556b120ff7309acaf2eb8bbe0a6e7459dffc9",
+          "uuid": "7e4556b1-03-6190a16f884da1a8e8f8d1e2f4bcba181fc64494",
+          "xpath": "/html[1]/body[1]/div[2]/div[5]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 9,
+      "source": "Columns",
+      "target": "Columns (columns9)",
+      "key": "columns9",
+      "instances": [
+        {
+          "url": "https://www.medtronic.com/ch-de/our-company/leadership.html",
+          "urlHash": "004cf660d77f40bc002a924a5a590415b85336ec",
+          "uuid": "004cf660-11-e4131b039762124f4272673fe48176fbc696abdf",
+          "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[6]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 10,
+      "source": "Cards",
+      "target": "Cards (cards10)",
+      "key": "cards10",
+      "instances": [
+        {
+          "url": "https://www.medtronic.com/ch-de/our-company/leadership.html",
+          "urlHash": "004cf660d77f40bc002a924a5a590415b85336ec",
+          "uuid": "004cf660-08-e69e22455956e007cda649f368344960af3ddd98",
+          "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[5]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 11,
+      "source": "Hero",
+      "target": "Hero (hero11)",
+      "key": "hero11",
+      "instances": [
+        {
+          "url": "https://www.medtronic.com/ch-de/our-company/leadership.html",
+          "urlHash": "004cf660d77f40bc002a924a5a590415b85336ec",
+          "uuid": "004cf660-02-51cfcabad7cde118d122e006fe007874352a292c",
+          "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[1]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Table (bordered)",
+      "cluster": 12,
+      "source": "Table (bordered)",
+      "target": "Table (bordered, tableBordered12)",
+      "key": "tableBordered12",
+      "instances": [
+        {
+          "url": "https://www.medtronic.com/ch-de/patienten/produkte-therapien.html",
+          "urlHash": "a5cbbf99306366a6a601aa6345d3b03971835fd0",
+          "uuid": "a5cbbf99-04-5449b7c1b06633a97fe1667f0908467eae4773f5",
+          "xpath": "/html[1]/body[1]/div[2]/div[5]/div[4]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 13,
+      "source": "Columns",
+      "target": "Columns (columns13)",
+      "key": "columns13",
+      "instances": [
+        {
+          "url": "https://www.medtronic.com/ch-de/our-company.html",
+          "urlHash": "90fe8e1ee3e979d5db4f9c657c4fb123c6f56148",
+          "uuid": "90fe8e1e-07-e4131b039762124f4272673fe48176fbc696abdf",
+          "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[6]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 14,
+      "source": "Cards",
+      "target": "Cards (cards14)",
+      "key": "cards14",
+      "instances": [
+        {
+          "url": "https://www.medtronic.com/ch-de/our-company/leadership.html",
+          "urlHash": "004cf660d77f40bc002a924a5a590415b85336ec",
+          "uuid": "004cf660-05-92dba6a051a7b6aab45b9891c6cd7d1ee35f4d0d",
+          "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[4]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 15,
+      "source": "Cards",
+      "target": "Cards (cards15)",
+      "key": "cards15",
+      "instances": [
+        {
+          "url": "https://www.medtronic.com/ch-de/our-company/leadership.html",
+          "urlHash": "004cf660d77f40bc002a924a5a590415b85336ec",
+          "uuid": "004cf660-04-af87d666184ef39cc9afc9dbbd084e0975f03b84",
+          "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[3]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 16,
+      "source": "Cards",
+      "target": "Cards (cards16)",
+      "key": "cards16",
+      "instances": [
+        {
+          "url": "https://www.medtronic.com/ch-de/our-company/leadership.html",
+          "urlHash": "004cf660d77f40bc002a924a5a590415b85336ec",
+          "uuid": "004cf660-07-a569260089145ada4c5ada98ee77daea23d54492",
+          "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[5]/div[1]/div[1]/div[2]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 17,
+      "source": "Hero",
+      "target": "Hero (hero17)",
+      "key": "hero17",
+      "instances": [
+        {
+          "url": "https://www.medtronic.com/ch-de/our-company/key-facts.html",
+          "urlHash": "c492c71c1a79678e3e425713b7f0becc98fff206",
+          "uuid": "c492c71c-02-51cfcabad7cde118d122e006fe007874352a292c",
+          "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[1]",
+          "section": "section-11"
+        }
+      ]
+    },
+    {
+      "name": "Carousel",
+      "cluster": 18,
+      "source": "Carousel",
+      "target": "Carousel (carousel18)",
+      "key": "carousel18",
+      "instances": [
+        {
+          "url": "https://www.medtronic.com/ch-de/index.html",
+          "urlHash": "257f8b86a840814e544dfc1f887b6c5f2f41fb55",
+          "uuid": "257f8b86-03-db7b1e87c87324bc7ccdc3f9686b5f90f67f8d58",
+          "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 19,
+      "source": "Hero",
+      "target": "Hero (hero19)",
+      "key": "hero19",
+      "instances": [
+        {
+          "url": "https://www.medtronic.com/ch-de/index.html",
+          "urlHash": "257f8b86a840814e544dfc1f887b6c5f2f41fb55",
+          "uuid": "257f8b86-06-ee38d583186eeb053dd812dfbd21365bb7e4fb8f",
+          "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[5]",
+          "section": "section-3"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 20,
+      "source": "Hero",
+      "target": "Hero (hero20)",
+      "key": "hero20",
+      "instances": [
+        {
+          "url": "https://www.medtronic.com/ch-de/our-company.html",
+          "urlHash": "90fe8e1ee3e979d5db4f9c657c4fb123c6f56148",
+          "uuid": "90fe8e1e-09-f845d008361e69678406282c454617fddf6e6ca5",
+          "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[8]",
+          "section": "section-10"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 21,
+      "source": "Columns",
+      "target": "Columns (columns21)",
+      "key": "columns21",
+      "instances": [
+        {
+          "url": "https://www.medtronic.com/ch-de/our-company.html",
+          "urlHash": "90fe8e1ee3e979d5db4f9c657c4fb123c6f56148",
+          "uuid": "90fe8e1e-08-12a3ca537f75a75bc981c8c0f8ddc7fd7747219a",
+          "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[7]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "Accordion",
+      "cluster": 22,
+      "source": "Accordion",
+      "target": "Accordion (accordion22)",
+      "key": "accordion22",
+      "instances": [
+        {
+          "url": "https://www.medtronic.com/ch-de/our-company/key-facts.html",
+          "urlHash": "c492c71c1a79678e3e425713b7f0becc98fff206",
+          "uuid": "c492c71c-09-ec558f0d11a37c226ca28d47c39973cbeec0dd80",
+          "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[7]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Accordion",
+      "cluster": 23,
+      "source": "Accordion",
+      "target": "Accordion (accordion23)",
+      "key": "accordion23",
+      "instances": [
+        {
+          "url": "https://www.medtronic.com/ch-de/our-company/key-facts.html",
+          "urlHash": "c492c71c1a79678e3e425713b7f0becc98fff206",
+          "uuid": "c492c71c-08-e5d69d88e84353a16f05fd6f8bde8c0de1478cdb",
+          "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[7]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/our-company/key-facts.html",
+          "urlHash": "c492c71c1a79678e3e425713b7f0becc98fff206",
+          "uuid": "c492c71c-11-75d70e95074ea9058079d6ed88fa75b8f51c5f43",
+          "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[7]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 24,
+      "source": "Hero",
+      "target": "Hero (hero24)",
+      "key": "hero24",
+      "instances": [
+        {
+          "url": "https://www.medtronic.com/ch-de/our-company.html",
+          "urlHash": "90fe8e1ee3e979d5db4f9c657c4fb123c6f56148",
+          "uuid": "90fe8e1e-02-51cfcabad7cde118d122e006fe007874352a292c",
+          "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[1]",
+          "section": "section-7"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 25,
+      "source": "Cards",
+      "target": "Cards (cards25)",
+      "key": "cards25",
+      "instances": [
+        {
+          "url": "https://www.medtronic.com/ch-de/our-company/leadership.html",
+          "urlHash": "004cf660d77f40bc002a924a5a590415b85336ec",
+          "uuid": "004cf660-10-dd52c34d7c7257f0cd8cb25dcb3bd37a25866410",
+          "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[5]/div[1]/div[1]/div[3]/div[1]/div[1]/div[3]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 26,
+      "source": "Hero",
+      "target": "Hero (hero26)",
+      "key": "hero26",
+      "instances": [
+        {
+          "url": "https://www.medtronic.com/ch-de/index.html",
+          "urlHash": "257f8b86a840814e544dfc1f887b6c5f2f41fb55",
+          "uuid": "257f8b86-02-12c3e07a6ea012221991138af26d43bfce17be59",
+          "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-4"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 27,
+      "source": "Hero",
+      "target": "Hero (hero27)",
+      "key": "hero27",
+      "instances": [
+        {
+          "url": "https://www.medtronic.com/ch-de/our-company.html",
+          "urlHash": "90fe8e1ee3e979d5db4f9c657c4fb123c6f56148",
+          "uuid": "90fe8e1e-04-af87d666184ef39cc9afc9dbbd084e0975f03b84",
+          "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[3]",
+          "section": "section-8"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/our-company.html",
+          "urlHash": "90fe8e1ee3e979d5db4f9c657c4fb123c6f56148",
+          "uuid": "90fe8e1e-06-a97f769bf26ddc5e90f4832f4cccfd7e6d56ac23",
+          "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[5]",
+          "section": "section-9"
+        }
+      ]
+    },
+    {
+      "name": "Carousel",
+      "cluster": 28,
+      "source": "Carousel",
+      "target": "Carousel (carousel28)",
+      "key": "carousel28",
+      "instances": [
+        {
+          "url": "https://www.medtronic.com/ch-de/index.html",
+          "urlHash": "257f8b86a840814e544dfc1f887b6c5f2f41fb55",
+          "uuid": "257f8b86-05-7992c7ea3c21688cc00f791de881bbdb42015a8d",
+          "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[4]",
+          "section": "section-6"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 29,
+      "instances": [
+        {
+          "url": "https://www.medtronic.com/ch-de/medizinische-fachpersonen.html",
+          "urlHash": "f3403bb6ed9d56644cf9e6845f029b8ea8f0c21d",
+          "uuid": "f3403bb6-06-add54bcb8f055de42915ab5371264bb19835b0f0",
+          "xpath": "/html[1]/body[1]"
+        }
+      ]
+    },
+    {
+      "name": "Carousel",
+      "cluster": 30,
+      "source": "Carousel",
+      "target": "Carousel (carousel30)",
+      "key": "carousel30",
+      "instances": [
+        {
+          "url": "https://www.medtronic.com/ch-de/index.html",
+          "urlHash": "257f8b86a840814e544dfc1f887b6c5f2f41fb55",
+          "uuid": "257f8b86-04-158f2fb91d5bf2dfceab83b028b64f1dcf0a699c",
+          "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[3]",
+          "section": "section-5"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 31,
+      "source": "Columns",
+      "target": "Columns (columns31)",
+      "key": "columns31",
+      "instances": [
+        {
+          "url": "https://www.medtronic.com/ch-de/our-company/key-facts.html",
+          "urlHash": "c492c71c1a79678e3e425713b7f0becc98fff206",
+          "uuid": "c492c71c-05-92dba6a051a7b6aab45b9891c6cd7d1ee35f4d0d",
+          "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[4]"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/our-company/key-facts.html",
+          "urlHash": "c492c71c1a79678e3e425713b7f0becc98fff206",
+          "uuid": "c492c71c-06-a97f769bf26ddc5e90f4832f4cccfd7e6d56ac23",
+          "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[5]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 32,
+      "source": "Cards",
+      "target": "Cards (cards32)",
+      "key": "cards32",
+      "instances": [
+        {
+          "url": "https://www.medtronic.com/ch-de/our-company/leadership.html",
+          "urlHash": "004cf660d77f40bc002a924a5a590415b85336ec",
+          "uuid": "004cf660-06-32216282812a14ebdbd4aaad2e9102ff8202e59d",
+          "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[5]/div[1]/div[1]/div[1]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "Accordion",
+      "cluster": 33,
+      "source": "Accordion",
+      "target": "Accordion (accordion33)",
+      "key": "accordion33",
+      "instances": [
+        {
+          "url": "https://www.medtronic.com/ch-de/our-company/key-facts.html",
+          "urlHash": "c492c71c1a79678e3e425713b7f0becc98fff206",
+          "uuid": "c492c71c-10-482007ad51c81b1d5229c60c266791c6037c5021",
+          "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[7]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+        }
+      ]
+    }
+  ],
+  "outliers": [
+    {
+      "url": "https://www.medtronic.com/ch-de/our-company/leadership.html",
+      "urlHash": "004cf660d77f40bc002a924a5a590415b85336ec",
+      "uuid": "004cf660-03-8c70b27f3acded73b33fc0d3bb24e508ef82f611",
+      "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/our-company/leadership.html",
+      "urlHash": "004cf660d77f40bc002a924a5a590415b85336ec",
+      "uuid": "004cf660-09-74b711a95a9db7e4960f0c53a75e84b84fd0782a",
+      "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[5]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/our-company/leadership.html",
+      "urlHash": "004cf660d77f40bc002a924a5a590415b85336ec",
+      "uuid": "004cf660-12-aa10422cd8515ab545cc9c83a31127db0fe5c58a",
+      "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[1]/div[1]/div[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/our-company/leadership.html",
+      "urlHash": "004cf660d77f40bc002a924a5a590415b85336ec",
+      "uuid": "004cf660-14-494cf1ca4219301c86af8abdc6b6cd98667da4e6",
+      "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[2]/div[1]/div[1]/nav[1]/img[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/our-company/leadership.html",
+      "urlHash": "004cf660d77f40bc002a924a5a590415b85336ec",
+      "uuid": "004cf660-16-19038fd27da9e7b8da62b28404784fc4a50b2d31",
+      "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[2]/div[1]/div[1]/div[2]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/index.html",
+      "urlHash": "257f8b86a840814e544dfc1f887b6c5f2f41fb55",
+      "uuid": "257f8b86-07-eff52ad0d111684f7aa992ca159f96c997f5cc31",
+      "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[6]/footer[1]/section[1]/div[1]/div[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/index.html",
+      "urlHash": "257f8b86a840814e544dfc1f887b6c5f2f41fb55",
+      "uuid": "257f8b86-09-236aed22ffd6395b64661055c69e0d7de8c1e945",
+      "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[6]/footer[1]/section[2]/div[1]/div[1]/nav[1]/img[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/index.html",
+      "urlHash": "257f8b86a840814e544dfc1f887b6c5f2f41fb55",
+      "uuid": "257f8b86-11-e052e1d2eafda637c0977ba8472ec61df353e98f",
+      "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[6]/footer[1]/section[2]/div[1]/div[1]/div[2]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/medizinische-fachpersonen/produkte.html",
+      "urlHash": "27f7f303788f07bfb3a11bb38b0a08944d4bf96b",
+      "uuid": "27f7f303-01-fdd0019a85576c6e6c213c2943db1410c56ec3ec",
+      "xpath": "/html[1]/body[1]/div[2]/nav[1]"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/medizinische-fachpersonen/produkte.html",
+      "urlHash": "27f7f303788f07bfb3a11bb38b0a08944d4bf96b",
+      "uuid": "27f7f303-02-aa10422cd8515ab545cc9c83a31127db0fe5c58a",
+      "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[1]/div[1]/div[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/medizinische-fachpersonen/produkte.html",
+      "urlHash": "27f7f303788f07bfb3a11bb38b0a08944d4bf96b",
+      "uuid": "27f7f303-04-494cf1ca4219301c86af8abdc6b6cd98667da4e6",
+      "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[2]/div[1]/div[1]/nav[1]/img[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/medizinische-fachpersonen/therapien-prozeduren.html",
+      "urlHash": "51029476f425dd2e7c41acab49fe8f78e146db17",
+      "uuid": "51029476-01-fdd0019a85576c6e6c213c2943db1410c56ec3ec",
+      "xpath": "/html[1]/body[1]/div[2]/nav[1]"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/medizinische-fachpersonen/therapien-prozeduren.html",
+      "urlHash": "51029476f425dd2e7c41acab49fe8f78e146db17",
+      "uuid": "51029476-02-aa10422cd8515ab545cc9c83a31127db0fe5c58a",
+      "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[1]/div[1]/div[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/medizinische-fachpersonen/therapien-prozeduren.html",
+      "urlHash": "51029476f425dd2e7c41acab49fe8f78e146db17",
+      "uuid": "51029476-04-494cf1ca4219301c86af8abdc6b6cd98667da4e6",
+      "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[2]/div[1]/div[1]/nav[1]/img[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/patienten/erkrankungen.html",
+      "urlHash": "690f889aa566b67182e1f65bde481f6c75e62e2c",
+      "uuid": "690f889a-02-fdd0019a85576c6e6c213c2943db1410c56ec3ec",
+      "xpath": "/html[1]/body[1]/div[2]/nav[1]"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/patienten/erkrankungen.html",
+      "urlHash": "690f889aa566b67182e1f65bde481f6c75e62e2c",
+      "uuid": "690f889a-03-9165786187abf4865d68e5915c88e088465e9108",
+      "xpath": "/html[1]/body[1]/div[2]/div[5]/div[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/patienten/erkrankungen.html",
+      "urlHash": "690f889aa566b67182e1f65bde481f6c75e62e2c",
+      "uuid": "690f889a-05-aa10422cd8515ab545cc9c83a31127db0fe5c58a",
+      "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[1]/div[1]/div[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/patienten/erkrankungen.html",
+      "urlHash": "690f889aa566b67182e1f65bde481f6c75e62e2c",
+      "uuid": "690f889a-07-494cf1ca4219301c86af8abdc6b6cd98667da4e6",
+      "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[2]/div[1]/div[1]/nav[1]/img[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/patienten/erkrankungen.html",
+      "urlHash": "690f889aa566b67182e1f65bde481f6c75e62e2c",
+      "uuid": "690f889a-09-19038fd27da9e7b8da62b28404784fc4a50b2d31",
+      "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[2]/div[1]/div[1]/div[2]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/patienten.html",
+      "urlHash": "7e4556b120ff7309acaf2eb8bbe0a6e7459dffc9",
+      "uuid": "7e4556b1-02-fdd0019a85576c6e6c213c2943db1410c56ec3ec",
+      "xpath": "/html[1]/body[1]/div[2]/nav[1]"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/patienten.html",
+      "urlHash": "7e4556b120ff7309acaf2eb8bbe0a6e7459dffc9",
+      "uuid": "7e4556b1-04-aa10422cd8515ab545cc9c83a31127db0fe5c58a",
+      "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[1]/div[1]/div[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/patienten.html",
+      "urlHash": "7e4556b120ff7309acaf2eb8bbe0a6e7459dffc9",
+      "uuid": "7e4556b1-06-494cf1ca4219301c86af8abdc6b6cd98667da4e6",
+      "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[2]/div[1]/div[1]/nav[1]/img[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/patienten.html",
+      "urlHash": "7e4556b120ff7309acaf2eb8bbe0a6e7459dffc9",
+      "uuid": "7e4556b1-08-19038fd27da9e7b8da62b28404784fc4a50b2d31",
+      "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[2]/div[1]/div[1]/div[2]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/our-company.html",
+      "urlHash": "90fe8e1ee3e979d5db4f9c657c4fb123c6f56148",
+      "uuid": "90fe8e1e-03-8c70b27f3acded73b33fc0d3bb24e508ef82f611",
+      "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/our-company.html",
+      "urlHash": "90fe8e1ee3e979d5db4f9c657c4fb123c6f56148",
+      "uuid": "90fe8e1e-05-d1b5cf10ae260253f288516a5d3cc2b32000df48",
+      "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[4]/div[1]"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/our-company.html",
+      "urlHash": "90fe8e1ee3e979d5db4f9c657c4fb123c6f56148",
+      "uuid": "90fe8e1e-10-aa10422cd8515ab545cc9c83a31127db0fe5c58a",
+      "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[1]/div[1]/div[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/our-company.html",
+      "urlHash": "90fe8e1ee3e979d5db4f9c657c4fb123c6f56148",
+      "uuid": "90fe8e1e-12-494cf1ca4219301c86af8abdc6b6cd98667da4e6",
+      "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[2]/div[1]/div[1]/nav[1]/img[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/our-company.html",
+      "urlHash": "90fe8e1ee3e979d5db4f9c657c4fb123c6f56148",
+      "uuid": "90fe8e1e-14-19038fd27da9e7b8da62b28404784fc4a50b2d31",
+      "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[2]/div[1]/div[1]/div[2]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/patienten/produkte-therapien.html",
+      "urlHash": "a5cbbf99306366a6a601aa6345d3b03971835fd0",
+      "uuid": "a5cbbf99-02-fdd0019a85576c6e6c213c2943db1410c56ec3ec",
+      "xpath": "/html[1]/body[1]/div[2]/nav[1]"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/patienten/produkte-therapien.html",
+      "urlHash": "a5cbbf99306366a6a601aa6345d3b03971835fd0",
+      "uuid": "a5cbbf99-03-9165786187abf4865d68e5915c88e088465e9108",
+      "xpath": "/html[1]/body[1]/div[2]/div[5]/div[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/patienten/produkte-therapien.html",
+      "urlHash": "a5cbbf99306366a6a601aa6345d3b03971835fd0",
+      "uuid": "a5cbbf99-05-aa10422cd8515ab545cc9c83a31127db0fe5c58a",
+      "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[1]/div[1]/div[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/patienten/produkte-therapien.html",
+      "urlHash": "a5cbbf99306366a6a601aa6345d3b03971835fd0",
+      "uuid": "a5cbbf99-07-494cf1ca4219301c86af8abdc6b6cd98667da4e6",
+      "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[2]/div[1]/div[1]/nav[1]/img[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/patienten/produkte-therapien.html",
+      "urlHash": "a5cbbf99306366a6a601aa6345d3b03971835fd0",
+      "uuid": "a5cbbf99-09-19038fd27da9e7b8da62b28404784fc4a50b2d31",
+      "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[2]/div[1]/div[1]/div[2]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/our-company/key-facts.html",
+      "urlHash": "c492c71c1a79678e3e425713b7f0becc98fff206",
+      "uuid": "c492c71c-03-8c70b27f3acded73b33fc0d3bb24e508ef82f611",
+      "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/our-company/key-facts.html",
+      "urlHash": "c492c71c1a79678e3e425713b7f0becc98fff206",
+      "uuid": "c492c71c-04-af87d666184ef39cc9afc9dbbd084e0975f03b84",
+      "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[3]"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/our-company/key-facts.html",
+      "urlHash": "c492c71c1a79678e3e425713b7f0becc98fff206",
+      "uuid": "c492c71c-07-e4131b039762124f4272673fe48176fbc696abdf",
+      "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[6]"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/our-company/key-facts.html",
+      "urlHash": "c492c71c1a79678e3e425713b7f0becc98fff206",
+      "uuid": "c492c71c-12-aa10422cd8515ab545cc9c83a31127db0fe5c58a",
+      "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[1]/div[1]/div[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/our-company/key-facts.html",
+      "urlHash": "c492c71c1a79678e3e425713b7f0becc98fff206",
+      "uuid": "c492c71c-14-494cf1ca4219301c86af8abdc6b6cd98667da4e6",
+      "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[2]/div[1]/div[1]/nav[1]/img[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/our-company/key-facts.html",
+      "urlHash": "c492c71c1a79678e3e425713b7f0becc98fff206",
+      "uuid": "c492c71c-16-19038fd27da9e7b8da62b28404784fc4a50b2d31",
+      "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[2]/div[1]/div[1]/div[2]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/medizinische-fachpersonen.html",
+      "urlHash": "f3403bb6ed9d56644cf9e6845f029b8ea8f0c21d",
+      "uuid": "f3403bb6-01-fdd0019a85576c6e6c213c2943db1410c56ec3ec",
+      "xpath": "/html[1]/body[1]/div[2]/nav[1]"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/medizinische-fachpersonen.html",
+      "urlHash": "f3403bb6ed9d56644cf9e6845f029b8ea8f0c21d",
+      "uuid": "f3403bb6-02-aa10422cd8515ab545cc9c83a31127db0fe5c58a",
+      "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[1]/div[1]/div[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/medizinische-fachpersonen.html",
+      "urlHash": "f3403bb6ed9d56644cf9e6845f029b8ea8f0c21d",
+      "uuid": "f3403bb6-04-494cf1ca4219301c86af8abdc6b6cd98667da4e6",
+      "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[2]/div[1]/div[1]/nav[1]/img[1]",
+      "section": "section-3"
+    }
+  ],
+  "sections": [
+    {
+      "name": "section-1",
+      "background": "rgba(0, 0, 0, 0) url(\"https://www.medtronic.com/content/dam/medtronic-wide/public/brand-corporate-assets/imagery/concept/abstract-dark-blue-fractals-sm-hero-cnpt.jpg\") no-repeat scroll 100% 100% / cover padding-box border-box",
+      "count": 1
+    },
+    {
+      "name": "section-2",
+      "background": "rgb(245, 245, 245) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 10
+    },
+    {
+      "name": "section-3",
+      "background": "rgb(20, 15, 75) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 57
+    },
+    {
+      "name": "section-4",
+      "background": "rgba(0, 0, 0, 0) url(\"https://www.medtronic.com/content/dam/medtronic-wide/public/brand-corporate-assets/imagery/lifestyle/general/man-child-shoulders-life.jpg\") no-repeat scroll 50% 50% / cover padding-box border-box",
+      "count": 1
+    },
+    {
+      "name": "section-5",
+      "background": "rgba(0, 0, 0, 0) url(\"https://www.medtronic.com/content/dam/medtronic-wide/public/brand-corporate-assets/imagery/lifestyle/general/our-impact-life.jpg\") no-repeat scroll 50% 50% / cover padding-box border-box",
+      "count": 1
+    },
+    {
+      "name": "section-6",
+      "background": "rgba(0, 0, 0, 0) url(\"https://www.medtronic.com/content/dam/medtronic-wide/public/brand-corporate-assets/imagery/lifestyle/general/man-woman-surgical-masks-life.jpg\") no-repeat scroll 50% 50% / cover padding-box border-box",
+      "count": 1
+    },
+    {
+      "name": "section-7",
+      "background": "rgba(0, 0, 0, 0) url(\"https://www.medtronic.com/content/dam/medtronic-wide/public/brand-corporate-assets/imagery/lifestyle/general/engineering-the-extraordinary-life.jpg\") no-repeat scroll 50% 50% / cover padding-box border-box",
+      "count": 1
+    },
+    {
+      "name": "section-8",
+      "background": "rgba(0, 0, 0, 0) url(\"https://www.medtronic.com/content/dam/medtronic-wide/public/brand-corporate-assets/imagery/lifestyle/general/man-woman-mri-office-life.jpg\") no-repeat scroll 100% 0% / cover padding-box border-box",
+      "count": 1
+    },
+    {
+      "name": "section-9",
+      "background": "rgba(0, 0, 0, 0) url(\"https://www.medtronic.com/content/dam/medtronic-wide/public/brand-corporate-assets/imagery/lifestyle/general/putting-people-first-life.jpg\") no-repeat scroll 0% 0% / cover padding-box border-box",
+      "count": 1
+    },
+    {
+      "name": "section-10",
+      "background": "rgb(245, 245, 245) url(\"https://www.medtronic.com/content/dam/medtronic-wide/public/brand-corporate-assets/imagery/lifestyle/general/our-impact-life.jpg\") no-repeat scroll 50% 50% / cover padding-box border-box",
+      "count": 1
+    },
+    {
+      "name": "section-11",
+      "background": "rgba(0, 0, 0, 0) url(\"https://www.medtronic.com/content/dam/medtronic-wide/public/brand-corporate-assets/imagery/lifestyle/general/key-facts-woman-daughter-life.jpg\") no-repeat scroll 50% 50% / cover padding-box border-box",
+      "count": 1
+    }
+  ]
+}

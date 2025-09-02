@@ -1,0 +1,74 @@
+{
+  "templates": [
+    {
+      "name": "\"Healthcare Multi-Section Template\"",
+      "cluster": 1,
+      "pages": [
+        {
+          "url": "https://www.medtronic.com/ch-de/index.html",
+          "uuid": "257f8b86a840814e544dfc1f887b6c5f2f41fb55"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/medizinische-fachpersonen.html",
+          "uuid": "f3403bb6ed9d56644cf9e6845f029b8ea8f0c21d"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/our-company.html",
+          "uuid": "90fe8e1ee3e979d5db4f9c657c4fb123c6f56148"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/patienten.html",
+          "uuid": "7e4556b120ff7309acaf2eb8bbe0a6e7459dffc9"
+        }
+      ]
+    },
+    {
+      "name": "\"Navigation Header/Footer Template\"",
+      "cluster": 2,
+      "pages": [
+        {
+          "url": "https://www.medtronic.com/ch-de/medizinische-fachpersonen/therapien-prozeduren.html",
+          "uuid": "51029476f425dd2e7c41acab49fe8f78e146db17"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/medizinische-fachpersonen/produkte.html",
+          "uuid": "27f7f303788f07bfb3a11bb38b0a08944d4bf96b"
+        }
+      ]
+    },
+    {
+      "name": "Sidebar Navigation Template",
+      "cluster": 3,
+      "pages": [
+        {
+          "url": "https://www.medtronic.com/ch-de/patienten/produkte-therapien.html",
+          "uuid": "a5cbbf99306366a6a601aa6345d3b03971835fd0"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/patienten/erkrankungen.html",
+          "uuid": "690f889aa566b67182e1f65bde481f6c75e62e2c"
+        }
+      ]
+    },
+    {
+      "name": "'Business Overview'",
+      "cluster": 4,
+      "pages": [
+        {
+          "url": "https://www.medtronic.com/ch-de/our-company/key-facts.html",
+          "uuid": "c492c71c1a79678e3e425713b7f0becc98fff206"
+        }
+      ]
+    },
+    {
+      "name": "Gallery Listing Page",
+      "cluster": 5,
+      "pages": [
+        {
+          "url": "https://www.medtronic.com/ch-de/our-company/leadership.html",
+          "uuid": "004cf660d77f40bc002a924a5a590415b85336ec"
+        }
+      ]
+    }
+  ]
+}
