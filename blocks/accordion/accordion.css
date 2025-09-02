@@ -1,3 +1,4 @@
+/* stylelint-disable no-descending-specificity */
 .accordion details {
   border: 1px solid #dadada;
 }
@@ -75,7 +76,7 @@
   position: relative;
   min-height: 24px;
   padding-left: 24px;
-  padding-right: 18px; /* closer to the right edge for arrow */
+  padding-right: 18px;
   background: #fff;
   width: 100%;
   box-sizing: border-box;
@@ -97,7 +98,6 @@
   display: none;
 }
 
-/* Arrow - absolutely positioned, very fine and compact, optically centered */
 .accordion.accordion22 .accordion-item-label::after {
   position: absolute;
   top: 50%;
@@ -137,5 +137,106 @@
   .accordion.accordion22 .accordion-item-label p {
     font-size: 13px;
     line-height: 28px;
+  }
+}
+
+
+.accordion.accordion23 {
+  max-width: 1100px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0;
+  border: none;
+  background: none;
+}
+
+.accordion.accordion23 details {
+  border: none;
+  background: none;
+  margin: 0;
+  padding: 0;
+}
+
+/* HEADER ROW */
+.accordion.accordion23 summary {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 22px 32px 22px 8px;
+  min-height: 48px;
+  background: none;
+  border: none;
+  cursor: pointer;
+  transition: background 0.2s;
+  outline: none;
+  box-sizing: border-box;
+}
+
+.accordion.accordion23 summary p {
+  margin: 0;
+  padding: 0;
+  color: #3b4cca;
+  text-transform: uppercase;
+  font-size: 12px;
+  letter-spacing: 1.6px;
+  font-weight: 500;
+  line-height: 1;
+  text-align: left;
+  flex: 0 1 auto;
+  max-width: 50vw;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* CHEVRON STYLES */
+.accordion.accordion23 summary::after {
+  display: inline-block;
+  width: 14px;
+  height: 14px;
+  margin-left: 12px;
+  border-right: 2px solid #3b4cca;
+  border-top: 2px solid #3b4cca;
+  transform: rotate(-45deg);
+  transition: transform 0.2s;
+  align-self: center;
+}
+
+.accordion.accordion23 details[open] summary::after {
+  transform: rotate(135deg);
+}
+
+/* ACCORDION BODY (CONTENT PANEL) */
+.accordion.accordion23 .accordion-item-body {
+  background: #f5f5f7;
+  margin: 0;
+  padding: 32px;
+  border: none;
+  border-radius: 0;
+  box-sizing: border-box;
+}
+
+.accordion.accordion23 .accordion-item-body p {
+  color: #33334d;
+  font-size: 15px;
+  line-height: 2.2;
+  margin: 0;
+  white-space: pre-line;
+}
+
+/* Responsive: Reduce padding on smaller screens */
+@media (width <= 599px) {
+  .accordion.accordion23 {
+    max-width: 100%;
+  }
+
+  .accordion.accordion23 summary {
+    padding: 14px 12px 14px 6px;
+    min-height: 36px;
+  }
+
+  .accordion.accordion23 .accordion-item-body {
+    padding: 18px 10px;
   }
 }
