@@ -345,7 +345,6 @@
   min-height: 520px;
 }
 
-/* Wider, more balanced image area and improved fade */
 .carousel.carousel28 .carousel-slide-image {
   position: absolute;
   top: 0;
@@ -373,7 +372,6 @@
   pointer-events: none;
 }
 
-/* Content circle styling */
 .carousel.carousel28 .carousel-slide-content {
   background: #fff;
   color: #2536bc;
@@ -400,7 +398,6 @@
   padding: 0 44px;
 }
 
-/* Responsive adjustments for circle */
 @media (width <= 1100px) {
   .carousel.carousel28 .carousel-slide-content {
     right: 2vw;
@@ -444,7 +441,6 @@
   }
 }
 
-/* Headline */
 .carousel.carousel28 .carousel-slide-content h2 {
   color: #2536bc;
   font-size: 2.4rem;
@@ -455,7 +451,6 @@
   text-align: center;
 }
 
-/* Subtitle ("KARRIERE") with underline below, not touching text */
 .carousel.carousel28 .carousel-slide-content p:first-child {
   color: #2536bc;
   font-size: 1rem;
@@ -480,7 +475,6 @@
   border-radius: 2px;
 }
 
-/* Description paragraph */
 .carousel.carousel28 .carousel-slide-content h2 + p {
   color: #131313;
   font-size: 1.08rem;
@@ -491,7 +485,6 @@
   max-width: 440px;
 }
 
-/* Button styling */
 .carousel.carousel28 .carousel-slide-content .button-container {
   text-align: center;
   margin: 0;
@@ -518,7 +511,6 @@
   border-color: #2536bc;
 }
 
-/* Vertical dot indicators on left, now visible and styled */
 .carousel.carousel28 .carousel-slide-indicators {
   position: absolute;
   top: 50%;
@@ -564,7 +556,6 @@
   border-color: #2536bc;
 }
 
-/* Responsive indicator dots */
 @media (width <= 700px) {
   .carousel.carousel28 .carousel-slide-indicators {
     left: 8px;
@@ -577,7 +568,117 @@
   }
 }
 
-/* Hide nav arrows */
 .carousel.carousel28 .carousel-navigation-buttons {
   display: none;
+}
+
+
+/* Vertical page indicators on left, aligned with heading */
+.carousel.carousel30 .carousel-slide-indicators {
+  position: absolute;
+  top: 82px;
+  left: 20px;
+  transform: none;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 20px;
+  background: none;
+  padding: 0;
+  z-index: 3;
+  pointer-events: auto;
+}
+
+.carousel.carousel30 .carousel-slide-indicator button {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: #fff;
+  border: 1px solid #fff;
+  margin: 0;
+  padding: 0;
+  opacity: 0.92;
+  box-shadow: 0 0 0 0;
+  transition: background 0.18s, border-color 0.18s, opacity 0.18s;
+}
+
+.carousel.carousel30 .carousel-slide-indicator button:disabled,
+.carousel.carousel30 .carousel-slide-indicator button[aria-current="true"] {
+  background: #2856ea;
+  border-color: #fff;
+  opacity: 1;
+}
+
+@media (width <= 900px) {
+  .carousel.carousel30 .carousel-slide-indicators {
+    top: 28px;
+    left: 7px;
+    gap: 12px;
+  }
+}
+
+/* Overlay: lighter, tighter, more gentle gradient to right */
+.carousel.carousel30 .carousel-slide-content {
+  background: linear-gradient(90deg, rgb(19 19 19 / 54%) 77%, rgb(19 19 19 / 10%) 100%);
+  color: #fff;
+  border-radius: 14px;
+  padding: 34px 28px 28px;
+  margin: 32px 0 0 36px;
+  max-width: 525px;
+  box-shadow: none;
+  text-align: left;
+  border: none;
+}
+
+/* Overlay even tighter on mobile */
+@media (width <= 900px) {
+  .carousel.carousel30 .carousel-slide-content {
+    padding: 18px 6vw 16px;
+    margin: 12px 0 0 16px;
+    max-width: 98vw;
+    border-radius: 10px;
+  }
+}
+
+/* Heading: slightly larger and spaced */
+.carousel.carousel30 .carousel-slide-content h2 {
+  font-weight: 400;
+  font-size: 3.15rem;
+  letter-spacing: 0.012em;
+  line-height: 1.14;
+  margin-bottom: 1.6em;
+}
+
+/* Paragraph: lighter, more spacing, softer opacity */
+.carousel.carousel30 .carousel-slide-content h4,
+.carousel.carousel30 .carousel-slide-content p:not(.button-container) {
+  font-weight: 300;
+  font-size: 1.08rem;
+  color: #fff;
+  line-height: 1.78;
+  margin-bottom: 1.3em;
+  opacity: 0.68;
+}
+
+/* Button: thinner border, more horizontal padding, slightly smaller text, more space below paragraph */
+.carousel.carousel30 .carousel-slide-content .button-container .button {
+  background: transparent;
+  color: #fff;
+  border: 1px solid #fff;
+  border-radius: 2em;
+  font-weight: 400;
+  font-size: 1em;
+  padding: 0.7em 2.7em;
+  box-shadow: none;
+  margin-top: 28px;
+  margin-bottom: 0;
+  letter-spacing: 0.01em;
+  transition: background 0.18s, color 0.18s, border-color 0.18s;
+}
+
+.carousel.carousel30 .carousel-slide-content .button-container .button:hover,
+.carousel.carousel30 .carousel-slide-content .button-container .button:focus {
+  background: rgb(40 86 234 / 13%);
+  color: #fff;
+  border-color: #2856ea;
 }
