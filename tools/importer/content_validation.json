@@ -1,0 +1,3139 @@
+{
+  "fragments": [
+    {
+      "name": "nav",
+      "path": "/nav",
+      "totalBoxes": 1,
+      "instances": [
+        {
+          "url": "https://www.medtronic.com/ch-de/our-company/leadership.html",
+          "urlHash": "004cf660d77f40bc002a924a5a590415b85336ec",
+          "uuid": "004cf660-00-26aa3b597b881493159e12394bdd47b00cc669e2",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/index.html",
+          "urlHash": "257f8b86a840814e544dfc1f887b6c5f2f41fb55",
+          "uuid": "257f8b86-00-26aa3b597b881493159e12394bdd47b00cc669e2",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/medizinische-fachpersonen/produkte.html",
+          "urlHash": "27f7f303788f07bfb3a11bb38b0a08944d4bf96b",
+          "uuid": "27f7f303-00-4a92fbc8b0a99f90d4f6b2d9c7ed9b2f57e17ac5",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/medizinische-fachpersonen/therapien-prozeduren.html",
+          "urlHash": "51029476f425dd2e7c41acab49fe8f78e146db17",
+          "uuid": "51029476-00-4a92fbc8b0a99f90d4f6b2d9c7ed9b2f57e17ac5",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/patienten/erkrankungen.html",
+          "urlHash": "690f889aa566b67182e1f65bde481f6c75e62e2c",
+          "uuid": "690f889a-00-26aa3b597b881493159e12394bdd47b00cc669e2",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/patienten.html",
+          "urlHash": "7e4556b120ff7309acaf2eb8bbe0a6e7459dffc9",
+          "uuid": "7e4556b1-00-26aa3b597b881493159e12394bdd47b00cc669e2",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/our-company.html",
+          "urlHash": "90fe8e1ee3e979d5db4f9c657c4fb123c6f56148",
+          "uuid": "90fe8e1e-00-26aa3b597b881493159e12394bdd47b00cc669e2",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/patienten/produkte-therapien.html",
+          "urlHash": "a5cbbf99306366a6a601aa6345d3b03971835fd0",
+          "uuid": "a5cbbf99-00-26aa3b597b881493159e12394bdd47b00cc669e2",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/our-company/key-facts.html",
+          "urlHash": "c492c71c1a79678e3e425713b7f0becc98fff206",
+          "uuid": "c492c71c-00-26aa3b597b881493159e12394bdd47b00cc669e2",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/medizinische-fachpersonen.html",
+          "urlHash": "f3403bb6ed9d56644cf9e6845f029b8ea8f0c21d",
+          "uuid": "f3403bb6-00-4a92fbc8b0a99f90d4f6b2d9c7ed9b2f57e17ac5",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]"
+        }
+      ],
+      "styles": {
+        "height": 140,
+        "background": "rgb(20, 15, 75) none repeat scroll 0% 0% / auto padding-box border-box"
+      }
+    },
+    {
+      "name": "footer",
+      "path": "/footer",
+      "totalBoxes": 1,
+      "instances": [
+        {
+          "url": "https://www.medtronic.com/ch-de/our-company/leadership.html",
+          "urlHash": "004cf660d77f40bc002a924a5a590415b85336ec",
+          "uuid": "004cf660-16-19038fd27da9e7b8da62b28404784fc4a50b2d31",
+          "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[2]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/index.html",
+          "urlHash": "257f8b86a840814e544dfc1f887b6c5f2f41fb55",
+          "uuid": "257f8b86-11-e052e1d2eafda637c0977ba8472ec61df353e98f",
+          "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[6]/footer[1]/section[2]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/medizinische-fachpersonen/produkte.html",
+          "urlHash": "27f7f303788f07bfb3a11bb38b0a08944d4bf96b",
+          "uuid": "27f7f303-06-add54bcb8f055de42915ab5371264bb19835b0f0",
+          "xpath": "/html[1]/body[1]"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/medizinische-fachpersonen/therapien-prozeduren.html",
+          "urlHash": "51029476f425dd2e7c41acab49fe8f78e146db17",
+          "uuid": "51029476-06-add54bcb8f055de42915ab5371264bb19835b0f0",
+          "xpath": "/html[1]/body[1]"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/patienten/erkrankungen.html",
+          "urlHash": "690f889aa566b67182e1f65bde481f6c75e62e2c",
+          "uuid": "690f889a-09-19038fd27da9e7b8da62b28404784fc4a50b2d31",
+          "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[2]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/patienten.html",
+          "urlHash": "7e4556b120ff7309acaf2eb8bbe0a6e7459dffc9",
+          "uuid": "7e4556b1-08-19038fd27da9e7b8da62b28404784fc4a50b2d31",
+          "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[2]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/our-company.html",
+          "urlHash": "90fe8e1ee3e979d5db4f9c657c4fb123c6f56148",
+          "uuid": "90fe8e1e-14-19038fd27da9e7b8da62b28404784fc4a50b2d31",
+          "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[2]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/patienten/produkte-therapien.html",
+          "urlHash": "a5cbbf99306366a6a601aa6345d3b03971835fd0",
+          "uuid": "a5cbbf99-09-19038fd27da9e7b8da62b28404784fc4a50b2d31",
+          "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[2]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/our-company/key-facts.html",
+          "urlHash": "c492c71c1a79678e3e425713b7f0becc98fff206",
+          "uuid": "c492c71c-16-19038fd27da9e7b8da62b28404784fc4a50b2d31",
+          "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[2]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/medizinische-fachpersonen.html",
+          "urlHash": "f3403bb6ed9d56644cf9e6845f029b8ea8f0c21d",
+          "uuid": "f3403bb6-06-add54bcb8f055de42915ab5371264bb19835b0f0",
+          "xpath": "/html[1]/body[1]"
+        }
+      ],
+      "styles": {
+        "background": "rgb(20, 15, 75) none repeat scroll 0% 0% / auto padding-box border-box"
+      }
+    }
+  ],
+  "blocks": [
+    {
+      "name": "Table (striped & bordered)",
+      "cluster": 1,
+      "source": "Table (striped, bordered)",
+      "target": "Table (striped, bordered, tableStripedBordered1)",
+      "key": "tableStripedBordered1",
+      "instances": [
+        {
+          "url": "https://www.medtronic.com/ch-de/medizinische-fachpersonen/produkte.html",
+          "urlHash": "27f7f303788f07bfb3a11bb38b0a08944d4bf96b",
+          "uuid": "27f7f303-06-add54bcb8f055de42915ab5371264bb19835b0f0",
+          "xpath": "/html[1]/body[1]"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/medizinische-fachpersonen/therapien-prozeduren.html",
+          "urlHash": "51029476f425dd2e7c41acab49fe8f78e146db17",
+          "uuid": "51029476-06-add54bcb8f055de42915ab5371264bb19835b0f0",
+          "xpath": "/html[1]/body[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 2,
+      "source": "Columns",
+      "target": "Columns (columns2)",
+      "key": "columns2",
+      "instances": [
+        {
+          "url": "https://www.medtronic.com/ch-de/our-company/leadership.html",
+          "urlHash": "004cf660d77f40bc002a924a5a590415b85336ec",
+          "uuid": "004cf660-15-474fe92ffd44591550f06a9e98db44e2e2b42734",
+          "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[2]/div[1]/div[1]/nav[1]/ul[1]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/index.html",
+          "urlHash": "257f8b86a840814e544dfc1f887b6c5f2f41fb55",
+          "uuid": "257f8b86-10-77a2b79ff7632687bd917cba5cb7b74c3f409a8c",
+          "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[6]/footer[1]/section[2]/div[1]/div[1]/nav[1]/ul[1]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/medizinische-fachpersonen/produkte.html",
+          "urlHash": "27f7f303788f07bfb3a11bb38b0a08944d4bf96b",
+          "uuid": "27f7f303-05-474fe92ffd44591550f06a9e98db44e2e2b42734",
+          "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[2]/div[1]/div[1]/nav[1]/ul[1]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/medizinische-fachpersonen/therapien-prozeduren.html",
+          "urlHash": "51029476f425dd2e7c41acab49fe8f78e146db17",
+          "uuid": "51029476-05-474fe92ffd44591550f06a9e98db44e2e2b42734",
+          "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[2]/div[1]/div[1]/nav[1]/ul[1]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/patienten/erkrankungen.html",
+          "urlHash": "690f889aa566b67182e1f65bde481f6c75e62e2c",
+          "uuid": "690f889a-08-474fe92ffd44591550f06a9e98db44e2e2b42734",
+          "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[2]/div[1]/div[1]/nav[1]/ul[1]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/patienten.html",
+          "urlHash": "7e4556b120ff7309acaf2eb8bbe0a6e7459dffc9",
+          "uuid": "7e4556b1-07-474fe92ffd44591550f06a9e98db44e2e2b42734",
+          "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[2]/div[1]/div[1]/nav[1]/ul[1]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/our-company.html",
+          "urlHash": "90fe8e1ee3e979d5db4f9c657c4fb123c6f56148",
+          "uuid": "90fe8e1e-13-474fe92ffd44591550f06a9e98db44e2e2b42734",
+          "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[2]/div[1]/div[1]/nav[1]/ul[1]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/patienten/produkte-therapien.html",
+          "urlHash": "a5cbbf99306366a6a601aa6345d3b03971835fd0",
+          "uuid": "a5cbbf99-08-474fe92ffd44591550f06a9e98db44e2e2b42734",
+          "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[2]/div[1]/div[1]/nav[1]/ul[1]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/our-company/key-facts.html",
+          "urlHash": "c492c71c1a79678e3e425713b7f0becc98fff206",
+          "uuid": "c492c71c-15-474fe92ffd44591550f06a9e98db44e2e2b42734",
+          "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[2]/div[1]/div[1]/nav[1]/ul[1]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/medizinische-fachpersonen.html",
+          "urlHash": "f3403bb6ed9d56644cf9e6845f029b8ea8f0c21d",
+          "uuid": "f3403bb6-05-474fe92ffd44591550f06a9e98db44e2e2b42734",
+          "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[2]/div[1]/div[1]/nav[1]/ul[1]",
+          "section": "section-3"
+        }
+      ]
+    },
+    {
+      "name": "header",
+      "cluster": 3,
+      "source": "Header",
+      "target": "Header (header3)",
+      "key": "header3",
+      "instances": [
+        {
+          "url": "https://www.medtronic.com/ch-de/our-company/leadership.html",
+          "urlHash": "004cf660d77f40bc002a924a5a590415b85336ec",
+          "uuid": "004cf660-00-26aa3b597b881493159e12394bdd47b00cc669e2",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/index.html",
+          "urlHash": "257f8b86a840814e544dfc1f887b6c5f2f41fb55",
+          "uuid": "257f8b86-00-26aa3b597b881493159e12394bdd47b00cc669e2",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/patienten/erkrankungen.html",
+          "urlHash": "690f889aa566b67182e1f65bde481f6c75e62e2c",
+          "uuid": "690f889a-00-26aa3b597b881493159e12394bdd47b00cc669e2",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/header[1]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/patienten.html",
+          "urlHash": "7e4556b120ff7309acaf2eb8bbe0a6e7459dffc9",
+          "uuid": "7e4556b1-00-26aa3b597b881493159e12394bdd47b00cc669e2",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/header[1]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/our-company.html",
+          "urlHash": "90fe8e1ee3e979d5db4f9c657c4fb123c6f56148",
+          "uuid": "90fe8e1e-00-26aa3b597b881493159e12394bdd47b00cc669e2",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/patienten/produkte-therapien.html",
+          "urlHash": "a5cbbf99306366a6a601aa6345d3b03971835fd0",
+          "uuid": "a5cbbf99-00-26aa3b597b881493159e12394bdd47b00cc669e2",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/header[1]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/our-company/key-facts.html",
+          "urlHash": "c492c71c1a79678e3e425713b7f0becc98fff206",
+          "uuid": "c492c71c-00-26aa3b597b881493159e12394bdd47b00cc669e2",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/header[1]"
+        }
+      ]
+    },
+    {
+      "name": "Table (striped & bordered)",
+      "cluster": 4,
+      "source": "Table (striped, bordered)",
+      "target": "Table (striped, bordered, tableStripedBordered4)",
+      "key": "tableStripedBordered4",
+      "instances": [
+        {
+          "url": "https://www.medtronic.com/ch-de/patienten/erkrankungen.html",
+          "urlHash": "690f889aa566b67182e1f65bde481f6c75e62e2c",
+          "uuid": "690f889a-04-5449b7c1b06633a97fe1667f0908467eae4773f5",
+          "xpath": "/html[1]/body[1]/div[2]/div[5]/div[4]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 5,
+      "source": "Columns",
+      "target": "Columns (columns5)",
+      "key": "columns5",
+      "instances": [
+        {
+          "url": "https://www.medtronic.com/ch-de/our-company/leadership.html",
+          "urlHash": "004cf660d77f40bc002a924a5a590415b85336ec",
+          "uuid": "004cf660-01-3b989459737d0e163187f1839618ecf872787c80",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/index.html",
+          "urlHash": "257f8b86a840814e544dfc1f887b6c5f2f41fb55",
+          "uuid": "257f8b86-01-3b989459737d0e163187f1839618ecf872787c80",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/patienten/erkrankungen.html",
+          "urlHash": "690f889aa566b67182e1f65bde481f6c75e62e2c",
+          "uuid": "690f889a-01-3b989459737d0e163187f1839618ecf872787c80",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/patienten.html",
+          "urlHash": "7e4556b120ff7309acaf2eb8bbe0a6e7459dffc9",
+          "uuid": "7e4556b1-01-3b989459737d0e163187f1839618ecf872787c80",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/our-company.html",
+          "urlHash": "90fe8e1ee3e979d5db4f9c657c4fb123c6f56148",
+          "uuid": "90fe8e1e-01-3b989459737d0e163187f1839618ecf872787c80",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/patienten/produkte-therapien.html",
+          "urlHash": "a5cbbf99306366a6a601aa6345d3b03971835fd0",
+          "uuid": "a5cbbf99-01-3b989459737d0e163187f1839618ecf872787c80",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/our-company/key-facts.html",
+          "urlHash": "c492c71c1a79678e3e425713b7f0becc98fff206",
+          "uuid": "c492c71c-01-3b989459737d0e163187f1839618ecf872787c80",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 6,
+      "source": "Columns",
+      "target": "Columns (columns6)",
+      "key": "columns6",
+      "instances": [
+        {
+          "url": "https://www.medtronic.com/ch-de/our-company/leadership.html",
+          "urlHash": "004cf660d77f40bc002a924a5a590415b85336ec",
+          "uuid": "004cf660-13-03a848ac135f5b5083604752948eb7dcbd8885f8",
+          "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[1]/div[1]/div[2]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/index.html",
+          "urlHash": "257f8b86a840814e544dfc1f887b6c5f2f41fb55",
+          "uuid": "257f8b86-08-a60b8efacd99852bfbd018559947f704c7bc063a",
+          "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[6]/footer[1]/section[1]/div[1]/div[2]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/medizinische-fachpersonen/produkte.html",
+          "urlHash": "27f7f303788f07bfb3a11bb38b0a08944d4bf96b",
+          "uuid": "27f7f303-03-03a848ac135f5b5083604752948eb7dcbd8885f8",
+          "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[1]/div[1]/div[2]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/medizinische-fachpersonen/therapien-prozeduren.html",
+          "urlHash": "51029476f425dd2e7c41acab49fe8f78e146db17",
+          "uuid": "51029476-03-03a848ac135f5b5083604752948eb7dcbd8885f8",
+          "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[1]/div[1]/div[2]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/patienten/erkrankungen.html",
+          "urlHash": "690f889aa566b67182e1f65bde481f6c75e62e2c",
+          "uuid": "690f889a-06-03a848ac135f5b5083604752948eb7dcbd8885f8",
+          "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[1]/div[1]/div[2]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/patienten.html",
+          "urlHash": "7e4556b120ff7309acaf2eb8bbe0a6e7459dffc9",
+          "uuid": "7e4556b1-05-03a848ac135f5b5083604752948eb7dcbd8885f8",
+          "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[1]/div[1]/div[2]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/our-company.html",
+          "urlHash": "90fe8e1ee3e979d5db4f9c657c4fb123c6f56148",
+          "uuid": "90fe8e1e-11-03a848ac135f5b5083604752948eb7dcbd8885f8",
+          "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[1]/div[1]/div[2]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/patienten/produkte-therapien.html",
+          "urlHash": "a5cbbf99306366a6a601aa6345d3b03971835fd0",
+          "uuid": "a5cbbf99-06-03a848ac135f5b5083604752948eb7dcbd8885f8",
+          "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[1]/div[1]/div[2]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/our-company/key-facts.html",
+          "urlHash": "c492c71c1a79678e3e425713b7f0becc98fff206",
+          "uuid": "c492c71c-13-03a848ac135f5b5083604752948eb7dcbd8885f8",
+          "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[1]/div[1]/div[2]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/medizinische-fachpersonen.html",
+          "urlHash": "f3403bb6ed9d56644cf9e6845f029b8ea8f0c21d",
+          "uuid": "f3403bb6-03-03a848ac135f5b5083604752948eb7dcbd8885f8",
+          "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[1]/div[1]/div[2]",
+          "section": "section-3"
+        }
+      ]
+    },
+    {
+      "name": "header",
+      "cluster": 7,
+      "source": "Header",
+      "target": "Header (header7)",
+      "key": "header7",
+      "instances": [
+        {
+          "url": "https://www.medtronic.com/ch-de/medizinische-fachpersonen/produkte.html",
+          "urlHash": "27f7f303788f07bfb3a11bb38b0a08944d4bf96b",
+          "uuid": "27f7f303-00-4a92fbc8b0a99f90d4f6b2d9c7ed9b2f57e17ac5",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/medizinische-fachpersonen/therapien-prozeduren.html",
+          "urlHash": "51029476f425dd2e7c41acab49fe8f78e146db17",
+          "uuid": "51029476-00-4a92fbc8b0a99f90d4f6b2d9c7ed9b2f57e17ac5",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/medizinische-fachpersonen.html",
+          "urlHash": "f3403bb6ed9d56644cf9e6845f029b8ea8f0c21d",
+          "uuid": "f3403bb6-00-4a92fbc8b0a99f90d4f6b2d9c7ed9b2f57e17ac5",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]",
+          "section": "section-3"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 8,
+      "source": "Cards",
+      "target": "Cards (cards8)",
+      "key": "cards8",
+      "instances": [
+        {
+          "url": "https://www.medtronic.com/ch-de/patienten.html",
+          "urlHash": "7e4556b120ff7309acaf2eb8bbe0a6e7459dffc9",
+          "uuid": "7e4556b1-03-6190a16f884da1a8e8f8d1e2f4bcba181fc64494",
+          "xpath": "/html[1]/body[1]/div[2]/div[5]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 9,
+      "source": "Columns",
+      "target": "Columns (columns9)",
+      "key": "columns9",
+      "instances": [
+        {
+          "url": "https://www.medtronic.com/ch-de/our-company/leadership.html",
+          "urlHash": "004cf660d77f40bc002a924a5a590415b85336ec",
+          "uuid": "004cf660-11-e4131b039762124f4272673fe48176fbc696abdf",
+          "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[6]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 10,
+      "source": "Cards",
+      "target": "Cards (cards10)",
+      "key": "cards10",
+      "instances": [
+        {
+          "url": "https://www.medtronic.com/ch-de/our-company/leadership.html",
+          "urlHash": "004cf660d77f40bc002a924a5a590415b85336ec",
+          "uuid": "004cf660-08-e69e22455956e007cda649f368344960af3ddd98",
+          "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[5]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 11,
+      "source": "Hero",
+      "target": "Hero (hero11)",
+      "key": "hero11",
+      "instances": [
+        {
+          "url": "https://www.medtronic.com/ch-de/our-company/leadership.html",
+          "urlHash": "004cf660d77f40bc002a924a5a590415b85336ec",
+          "uuid": "004cf660-02-51cfcabad7cde118d122e006fe007874352a292c",
+          "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[1]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Table (bordered)",
+      "cluster": 12,
+      "source": "Table (bordered)",
+      "target": "Table (bordered, tableBordered12)",
+      "key": "tableBordered12",
+      "instances": [
+        {
+          "url": "https://www.medtronic.com/ch-de/patienten/produkte-therapien.html",
+          "urlHash": "a5cbbf99306366a6a601aa6345d3b03971835fd0",
+          "uuid": "a5cbbf99-04-5449b7c1b06633a97fe1667f0908467eae4773f5",
+          "xpath": "/html[1]/body[1]/div[2]/div[5]/div[4]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 13,
+      "source": "Columns",
+      "target": "Columns (columns13)",
+      "key": "columns13",
+      "instances": [
+        {
+          "url": "https://www.medtronic.com/ch-de/our-company.html",
+          "urlHash": "90fe8e1ee3e979d5db4f9c657c4fb123c6f56148",
+          "uuid": "90fe8e1e-07-e4131b039762124f4272673fe48176fbc696abdf",
+          "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[6]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 14,
+      "source": "Cards",
+      "target": "Cards (cards14)",
+      "key": "cards14",
+      "instances": [
+        {
+          "url": "https://www.medtronic.com/ch-de/our-company/leadership.html",
+          "urlHash": "004cf660d77f40bc002a924a5a590415b85336ec",
+          "uuid": "004cf660-05-92dba6a051a7b6aab45b9891c6cd7d1ee35f4d0d",
+          "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[4]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 15,
+      "source": "Cards",
+      "target": "Cards (cards15)",
+      "key": "cards15",
+      "instances": [
+        {
+          "url": "https://www.medtronic.com/ch-de/our-company/leadership.html",
+          "urlHash": "004cf660d77f40bc002a924a5a590415b85336ec",
+          "uuid": "004cf660-04-af87d666184ef39cc9afc9dbbd084e0975f03b84",
+          "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[3]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 16,
+      "source": "Cards",
+      "target": "Cards (cards16)",
+      "key": "cards16",
+      "instances": [
+        {
+          "url": "https://www.medtronic.com/ch-de/our-company/leadership.html",
+          "urlHash": "004cf660d77f40bc002a924a5a590415b85336ec",
+          "uuid": "004cf660-07-a569260089145ada4c5ada98ee77daea23d54492",
+          "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[5]/div[1]/div[1]/div[2]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 17,
+      "source": "Hero",
+      "target": "Hero (hero17)",
+      "key": "hero17",
+      "instances": [
+        {
+          "url": "https://www.medtronic.com/ch-de/our-company/key-facts.html",
+          "urlHash": "c492c71c1a79678e3e425713b7f0becc98fff206",
+          "uuid": "c492c71c-02-51cfcabad7cde118d122e006fe007874352a292c",
+          "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[1]",
+          "section": "section-11"
+        }
+      ]
+    },
+    {
+      "name": "Carousel",
+      "cluster": 18,
+      "source": "Carousel",
+      "target": "Carousel (carousel18)",
+      "key": "carousel18",
+      "instances": [
+        {
+          "url": "https://www.medtronic.com/ch-de/index.html",
+          "urlHash": "257f8b86a840814e544dfc1f887b6c5f2f41fb55",
+          "uuid": "257f8b86-03-db7b1e87c87324bc7ccdc3f9686b5f90f67f8d58",
+          "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 19,
+      "source": "Hero",
+      "target": "Hero (hero19)",
+      "key": "hero19",
+      "instances": [
+        {
+          "url": "https://www.medtronic.com/ch-de/index.html",
+          "urlHash": "257f8b86a840814e544dfc1f887b6c5f2f41fb55",
+          "uuid": "257f8b86-06-ee38d583186eeb053dd812dfbd21365bb7e4fb8f",
+          "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[5]",
+          "section": "section-3"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 20,
+      "source": "Hero",
+      "target": "Hero (hero20)",
+      "key": "hero20",
+      "instances": [
+        {
+          "url": "https://www.medtronic.com/ch-de/our-company.html",
+          "urlHash": "90fe8e1ee3e979d5db4f9c657c4fb123c6f56148",
+          "uuid": "90fe8e1e-09-f845d008361e69678406282c454617fddf6e6ca5",
+          "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[8]",
+          "section": "section-10"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 21,
+      "source": "Columns",
+      "target": "Columns (columns21)",
+      "key": "columns21",
+      "instances": [
+        {
+          "url": "https://www.medtronic.com/ch-de/our-company.html",
+          "urlHash": "90fe8e1ee3e979d5db4f9c657c4fb123c6f56148",
+          "uuid": "90fe8e1e-08-12a3ca537f75a75bc981c8c0f8ddc7fd7747219a",
+          "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[7]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "Accordion",
+      "cluster": 22,
+      "source": "Accordion",
+      "target": "Accordion (accordion22)",
+      "key": "accordion22",
+      "instances": [
+        {
+          "url": "https://www.medtronic.com/ch-de/our-company/key-facts.html",
+          "urlHash": "c492c71c1a79678e3e425713b7f0becc98fff206",
+          "uuid": "c492c71c-09-ec558f0d11a37c226ca28d47c39973cbeec0dd80",
+          "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[7]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Accordion",
+      "cluster": 23,
+      "source": "Accordion",
+      "target": "Accordion (accordion23)",
+      "key": "accordion23",
+      "instances": [
+        {
+          "url": "https://www.medtronic.com/ch-de/our-company/key-facts.html",
+          "urlHash": "c492c71c1a79678e3e425713b7f0becc98fff206",
+          "uuid": "c492c71c-08-e5d69d88e84353a16f05fd6f8bde8c0de1478cdb",
+          "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[7]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/our-company/key-facts.html",
+          "urlHash": "c492c71c1a79678e3e425713b7f0becc98fff206",
+          "uuid": "c492c71c-11-75d70e95074ea9058079d6ed88fa75b8f51c5f43",
+          "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[7]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 24,
+      "source": "Hero",
+      "target": "Hero (hero24)",
+      "key": "hero24",
+      "instances": [
+        {
+          "url": "https://www.medtronic.com/ch-de/our-company.html",
+          "urlHash": "90fe8e1ee3e979d5db4f9c657c4fb123c6f56148",
+          "uuid": "90fe8e1e-02-51cfcabad7cde118d122e006fe007874352a292c",
+          "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[1]",
+          "section": "section-7"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 25,
+      "source": "Cards",
+      "target": "Cards (cards25)",
+      "key": "cards25",
+      "instances": [
+        {
+          "url": "https://www.medtronic.com/ch-de/our-company/leadership.html",
+          "urlHash": "004cf660d77f40bc002a924a5a590415b85336ec",
+          "uuid": "004cf660-10-dd52c34d7c7257f0cd8cb25dcb3bd37a25866410",
+          "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[5]/div[1]/div[1]/div[3]/div[1]/div[1]/div[3]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 26,
+      "source": "Hero",
+      "target": "Hero (hero26)",
+      "key": "hero26",
+      "instances": [
+        {
+          "url": "https://www.medtronic.com/ch-de/index.html",
+          "urlHash": "257f8b86a840814e544dfc1f887b6c5f2f41fb55",
+          "uuid": "257f8b86-02-12c3e07a6ea012221991138af26d43bfce17be59",
+          "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-4"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 27,
+      "source": "Hero",
+      "target": "Hero (hero27)",
+      "key": "hero27",
+      "instances": [
+        {
+          "url": "https://www.medtronic.com/ch-de/our-company.html",
+          "urlHash": "90fe8e1ee3e979d5db4f9c657c4fb123c6f56148",
+          "uuid": "90fe8e1e-04-af87d666184ef39cc9afc9dbbd084e0975f03b84",
+          "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[3]",
+          "section": "section-8"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/our-company.html",
+          "urlHash": "90fe8e1ee3e979d5db4f9c657c4fb123c6f56148",
+          "uuid": "90fe8e1e-06-a97f769bf26ddc5e90f4832f4cccfd7e6d56ac23",
+          "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[5]",
+          "section": "section-9"
+        }
+      ]
+    },
+    {
+      "name": "Carousel",
+      "cluster": 28,
+      "source": "Carousel",
+      "target": "Carousel (carousel28)",
+      "key": "carousel28",
+      "instances": [
+        {
+          "url": "https://www.medtronic.com/ch-de/index.html",
+          "urlHash": "257f8b86a840814e544dfc1f887b6c5f2f41fb55",
+          "uuid": "257f8b86-05-7992c7ea3c21688cc00f791de881bbdb42015a8d",
+          "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[4]",
+          "section": "section-6"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 29,
+      "instances": [
+        {
+          "url": "https://www.medtronic.com/ch-de/medizinische-fachpersonen.html",
+          "urlHash": "f3403bb6ed9d56644cf9e6845f029b8ea8f0c21d",
+          "uuid": "f3403bb6-06-add54bcb8f055de42915ab5371264bb19835b0f0",
+          "xpath": "/html[1]/body[1]"
+        }
+      ]
+    },
+    {
+      "name": "Carousel",
+      "cluster": 30,
+      "source": "Carousel",
+      "target": "Carousel (carousel30)",
+      "key": "carousel30",
+      "instances": [
+        {
+          "url": "https://www.medtronic.com/ch-de/index.html",
+          "urlHash": "257f8b86a840814e544dfc1f887b6c5f2f41fb55",
+          "uuid": "257f8b86-04-158f2fb91d5bf2dfceab83b028b64f1dcf0a699c",
+          "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[3]",
+          "section": "section-5"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 31,
+      "source": "Columns",
+      "target": "Columns (columns31)",
+      "key": "columns31",
+      "instances": [
+        {
+          "url": "https://www.medtronic.com/ch-de/our-company/key-facts.html",
+          "urlHash": "c492c71c1a79678e3e425713b7f0becc98fff206",
+          "uuid": "c492c71c-05-92dba6a051a7b6aab45b9891c6cd7d1ee35f4d0d",
+          "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[4]"
+        },
+        {
+          "url": "https://www.medtronic.com/ch-de/our-company/key-facts.html",
+          "urlHash": "c492c71c1a79678e3e425713b7f0becc98fff206",
+          "uuid": "c492c71c-06-a97f769bf26ddc5e90f4832f4cccfd7e6d56ac23",
+          "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[5]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 32,
+      "source": "Cards",
+      "target": "Cards (cards32)",
+      "key": "cards32",
+      "instances": [
+        {
+          "url": "https://www.medtronic.com/ch-de/our-company/leadership.html",
+          "urlHash": "004cf660d77f40bc002a924a5a590415b85336ec",
+          "uuid": "004cf660-06-32216282812a14ebdbd4aaad2e9102ff8202e59d",
+          "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[5]/div[1]/div[1]/div[1]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "Accordion",
+      "cluster": 33,
+      "source": "Accordion",
+      "target": "Accordion (accordion33)",
+      "key": "accordion33",
+      "instances": [
+        {
+          "url": "https://www.medtronic.com/ch-de/our-company/key-facts.html",
+          "urlHash": "c492c71c1a79678e3e425713b7f0becc98fff206",
+          "uuid": "c492c71c-10-482007ad51c81b1d5229c60c266791c6037c5021",
+          "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[7]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+        }
+      ]
+    }
+  ],
+  "outliers": [
+    {
+      "url": "https://www.medtronic.com/ch-de/our-company/leadership.html",
+      "urlHash": "004cf660d77f40bc002a924a5a590415b85336ec",
+      "uuid": "004cf660-03-8c70b27f3acded73b33fc0d3bb24e508ef82f611",
+      "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/our-company/leadership.html",
+      "urlHash": "004cf660d77f40bc002a924a5a590415b85336ec",
+      "uuid": "004cf660-09-74b711a95a9db7e4960f0c53a75e84b84fd0782a",
+      "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[5]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/our-company/leadership.html",
+      "urlHash": "004cf660d77f40bc002a924a5a590415b85336ec",
+      "uuid": "004cf660-12-aa10422cd8515ab545cc9c83a31127db0fe5c58a",
+      "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[1]/div[1]/div[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/our-company/leadership.html",
+      "urlHash": "004cf660d77f40bc002a924a5a590415b85336ec",
+      "uuid": "004cf660-14-494cf1ca4219301c86af8abdc6b6cd98667da4e6",
+      "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[2]/div[1]/div[1]/nav[1]/img[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/our-company/leadership.html",
+      "urlHash": "004cf660d77f40bc002a924a5a590415b85336ec",
+      "uuid": "004cf660-16-19038fd27da9e7b8da62b28404784fc4a50b2d31",
+      "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[2]/div[1]/div[1]/div[2]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/index.html",
+      "urlHash": "257f8b86a840814e544dfc1f887b6c5f2f41fb55",
+      "uuid": "257f8b86-07-eff52ad0d111684f7aa992ca159f96c997f5cc31",
+      "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[6]/footer[1]/section[1]/div[1]/div[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/index.html",
+      "urlHash": "257f8b86a840814e544dfc1f887b6c5f2f41fb55",
+      "uuid": "257f8b86-09-236aed22ffd6395b64661055c69e0d7de8c1e945",
+      "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[6]/footer[1]/section[2]/div[1]/div[1]/nav[1]/img[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/index.html",
+      "urlHash": "257f8b86a840814e544dfc1f887b6c5f2f41fb55",
+      "uuid": "257f8b86-11-e052e1d2eafda637c0977ba8472ec61df353e98f",
+      "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[6]/footer[1]/section[2]/div[1]/div[1]/div[2]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/medizinische-fachpersonen/produkte.html",
+      "urlHash": "27f7f303788f07bfb3a11bb38b0a08944d4bf96b",
+      "uuid": "27f7f303-01-fdd0019a85576c6e6c213c2943db1410c56ec3ec",
+      "xpath": "/html[1]/body[1]/div[2]/nav[1]"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/medizinische-fachpersonen/produkte.html",
+      "urlHash": "27f7f303788f07bfb3a11bb38b0a08944d4bf96b",
+      "uuid": "27f7f303-02-aa10422cd8515ab545cc9c83a31127db0fe5c58a",
+      "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[1]/div[1]/div[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/medizinische-fachpersonen/produkte.html",
+      "urlHash": "27f7f303788f07bfb3a11bb38b0a08944d4bf96b",
+      "uuid": "27f7f303-04-494cf1ca4219301c86af8abdc6b6cd98667da4e6",
+      "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[2]/div[1]/div[1]/nav[1]/img[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/medizinische-fachpersonen/therapien-prozeduren.html",
+      "urlHash": "51029476f425dd2e7c41acab49fe8f78e146db17",
+      "uuid": "51029476-01-fdd0019a85576c6e6c213c2943db1410c56ec3ec",
+      "xpath": "/html[1]/body[1]/div[2]/nav[1]"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/medizinische-fachpersonen/therapien-prozeduren.html",
+      "urlHash": "51029476f425dd2e7c41acab49fe8f78e146db17",
+      "uuid": "51029476-02-aa10422cd8515ab545cc9c83a31127db0fe5c58a",
+      "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[1]/div[1]/div[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/medizinische-fachpersonen/therapien-prozeduren.html",
+      "urlHash": "51029476f425dd2e7c41acab49fe8f78e146db17",
+      "uuid": "51029476-04-494cf1ca4219301c86af8abdc6b6cd98667da4e6",
+      "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[2]/div[1]/div[1]/nav[1]/img[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/patienten/erkrankungen.html",
+      "urlHash": "690f889aa566b67182e1f65bde481f6c75e62e2c",
+      "uuid": "690f889a-02-fdd0019a85576c6e6c213c2943db1410c56ec3ec",
+      "xpath": "/html[1]/body[1]/div[2]/nav[1]"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/patienten/erkrankungen.html",
+      "urlHash": "690f889aa566b67182e1f65bde481f6c75e62e2c",
+      "uuid": "690f889a-03-9165786187abf4865d68e5915c88e088465e9108",
+      "xpath": "/html[1]/body[1]/div[2]/div[5]/div[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/patienten/erkrankungen.html",
+      "urlHash": "690f889aa566b67182e1f65bde481f6c75e62e2c",
+      "uuid": "690f889a-05-aa10422cd8515ab545cc9c83a31127db0fe5c58a",
+      "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[1]/div[1]/div[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/patienten/erkrankungen.html",
+      "urlHash": "690f889aa566b67182e1f65bde481f6c75e62e2c",
+      "uuid": "690f889a-07-494cf1ca4219301c86af8abdc6b6cd98667da4e6",
+      "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[2]/div[1]/div[1]/nav[1]/img[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/patienten/erkrankungen.html",
+      "urlHash": "690f889aa566b67182e1f65bde481f6c75e62e2c",
+      "uuid": "690f889a-09-19038fd27da9e7b8da62b28404784fc4a50b2d31",
+      "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[2]/div[1]/div[1]/div[2]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/patienten.html",
+      "urlHash": "7e4556b120ff7309acaf2eb8bbe0a6e7459dffc9",
+      "uuid": "7e4556b1-02-fdd0019a85576c6e6c213c2943db1410c56ec3ec",
+      "xpath": "/html[1]/body[1]/div[2]/nav[1]"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/patienten.html",
+      "urlHash": "7e4556b120ff7309acaf2eb8bbe0a6e7459dffc9",
+      "uuid": "7e4556b1-04-aa10422cd8515ab545cc9c83a31127db0fe5c58a",
+      "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[1]/div[1]/div[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/patienten.html",
+      "urlHash": "7e4556b120ff7309acaf2eb8bbe0a6e7459dffc9",
+      "uuid": "7e4556b1-06-494cf1ca4219301c86af8abdc6b6cd98667da4e6",
+      "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[2]/div[1]/div[1]/nav[1]/img[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/patienten.html",
+      "urlHash": "7e4556b120ff7309acaf2eb8bbe0a6e7459dffc9",
+      "uuid": "7e4556b1-08-19038fd27da9e7b8da62b28404784fc4a50b2d31",
+      "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[2]/div[1]/div[1]/div[2]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/our-company.html",
+      "urlHash": "90fe8e1ee3e979d5db4f9c657c4fb123c6f56148",
+      "uuid": "90fe8e1e-03-8c70b27f3acded73b33fc0d3bb24e508ef82f611",
+      "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/our-company.html",
+      "urlHash": "90fe8e1ee3e979d5db4f9c657c4fb123c6f56148",
+      "uuid": "90fe8e1e-05-d1b5cf10ae260253f288516a5d3cc2b32000df48",
+      "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[4]/div[1]"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/our-company.html",
+      "urlHash": "90fe8e1ee3e979d5db4f9c657c4fb123c6f56148",
+      "uuid": "90fe8e1e-10-aa10422cd8515ab545cc9c83a31127db0fe5c58a",
+      "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[1]/div[1]/div[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/our-company.html",
+      "urlHash": "90fe8e1ee3e979d5db4f9c657c4fb123c6f56148",
+      "uuid": "90fe8e1e-12-494cf1ca4219301c86af8abdc6b6cd98667da4e6",
+      "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[2]/div[1]/div[1]/nav[1]/img[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/our-company.html",
+      "urlHash": "90fe8e1ee3e979d5db4f9c657c4fb123c6f56148",
+      "uuid": "90fe8e1e-14-19038fd27da9e7b8da62b28404784fc4a50b2d31",
+      "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[2]/div[1]/div[1]/div[2]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/patienten/produkte-therapien.html",
+      "urlHash": "a5cbbf99306366a6a601aa6345d3b03971835fd0",
+      "uuid": "a5cbbf99-02-fdd0019a85576c6e6c213c2943db1410c56ec3ec",
+      "xpath": "/html[1]/body[1]/div[2]/nav[1]"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/patienten/produkte-therapien.html",
+      "urlHash": "a5cbbf99306366a6a601aa6345d3b03971835fd0",
+      "uuid": "a5cbbf99-03-9165786187abf4865d68e5915c88e088465e9108",
+      "xpath": "/html[1]/body[1]/div[2]/div[5]/div[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/patienten/produkte-therapien.html",
+      "urlHash": "a5cbbf99306366a6a601aa6345d3b03971835fd0",
+      "uuid": "a5cbbf99-05-aa10422cd8515ab545cc9c83a31127db0fe5c58a",
+      "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[1]/div[1]/div[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/patienten/produkte-therapien.html",
+      "urlHash": "a5cbbf99306366a6a601aa6345d3b03971835fd0",
+      "uuid": "a5cbbf99-07-494cf1ca4219301c86af8abdc6b6cd98667da4e6",
+      "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[2]/div[1]/div[1]/nav[1]/img[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/patienten/produkte-therapien.html",
+      "urlHash": "a5cbbf99306366a6a601aa6345d3b03971835fd0",
+      "uuid": "a5cbbf99-09-19038fd27da9e7b8da62b28404784fc4a50b2d31",
+      "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[2]/div[1]/div[1]/div[2]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/our-company/key-facts.html",
+      "urlHash": "c492c71c1a79678e3e425713b7f0becc98fff206",
+      "uuid": "c492c71c-03-8c70b27f3acded73b33fc0d3bb24e508ef82f611",
+      "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/our-company/key-facts.html",
+      "urlHash": "c492c71c1a79678e3e425713b7f0becc98fff206",
+      "uuid": "c492c71c-04-af87d666184ef39cc9afc9dbbd084e0975f03b84",
+      "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[3]"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/our-company/key-facts.html",
+      "urlHash": "c492c71c1a79678e3e425713b7f0becc98fff206",
+      "uuid": "c492c71c-07-e4131b039762124f4272673fe48176fbc696abdf",
+      "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/div[6]"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/our-company/key-facts.html",
+      "urlHash": "c492c71c1a79678e3e425713b7f0becc98fff206",
+      "uuid": "c492c71c-12-aa10422cd8515ab545cc9c83a31127db0fe5c58a",
+      "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[1]/div[1]/div[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/our-company/key-facts.html",
+      "urlHash": "c492c71c1a79678e3e425713b7f0becc98fff206",
+      "uuid": "c492c71c-14-494cf1ca4219301c86af8abdc6b6cd98667da4e6",
+      "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[2]/div[1]/div[1]/nav[1]/img[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/our-company/key-facts.html",
+      "urlHash": "c492c71c1a79678e3e425713b7f0becc98fff206",
+      "uuid": "c492c71c-16-19038fd27da9e7b8da62b28404784fc4a50b2d31",
+      "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[2]/div[1]/div[1]/div[2]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/medizinische-fachpersonen.html",
+      "urlHash": "f3403bb6ed9d56644cf9e6845f029b8ea8f0c21d",
+      "uuid": "f3403bb6-01-fdd0019a85576c6e6c213c2943db1410c56ec3ec",
+      "xpath": "/html[1]/body[1]/div[2]/nav[1]"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/medizinische-fachpersonen.html",
+      "urlHash": "f3403bb6ed9d56644cf9e6845f029b8ea8f0c21d",
+      "uuid": "f3403bb6-02-aa10422cd8515ab545cc9c83a31127db0fe5c58a",
+      "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[1]/div[1]/div[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/medizinische-fachpersonen.html",
+      "urlHash": "f3403bb6ed9d56644cf9e6845f029b8ea8f0c21d",
+      "uuid": "f3403bb6-04-494cf1ca4219301c86af8abdc6b6cd98667da4e6",
+      "xpath": "/html[1]/body[1]/div[3]/footer[1]/section[2]/div[1]/div[1]/nav[1]/img[1]",
+      "section": "section-3"
+    }
+  ],
+  "pages": [
+    {
+      "url": "https://www.medtronic.com/ch-de/medizinische-fachpersonen/produkte.html",
+      "differences": [
+        {
+          "change_type": "equal",
+          "text": "Close Sie verlassen nun die Website von Medtronic Schweiz Sie haben einen Link angeklickt, der auf eine andere Website f\u00fchrt. Wenn Sie fortfahren, verlassen Sie diese Website und werden zu einer Website weitergeleitet, die ausserhalb unseres Verantwortungsbereichs liegt. Medtronic Schweiz pr\u00fcft oder kontrolliert den Inhalt von Websites nicht, die ausserhalb unseres Verantwortungsbereichs liegen. Wir haften nicht f\u00fcr gesch\u00e4ftliche Vorg\u00e4nge oder Abschl\u00fcsse, die Sie auf solchen fremden Websites t\u00e4tigen. Ihre Nutzung fremder Websites unterliegt den Nutzungsbedingungen und den Datenschutzbestimmungen der jeweiligen Website. Schliessen OK"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Ihr Browser ist nicht auf dem aktuellen Stand. Mit einem aktualisierten Browser k\u00f6nnen Sie die Website von Medtronic besser nutzen. Browser jetzt aktualisieren. \u00d7 Hinweis Dieser Bereich der Website richtet sich ausschliesslich an medizinische Fachpersonen (\u00c4rzte, Pflegeberufe, Spitalverwaltung, Krankenkassen etc.). Patienten finden Informationen hier . Schliessen OK "
+        },
+        {
+          "change_type": "insertion",
+          "text": "Startseite Medizinische Fachpersonen Produkte "
+        },
+        {
+          "change_type": "equal",
+          "text": "Produkte Informationen f\u00fcr medizinische Fachkreise Sort"
+        },
+        {
+          "change_type": "deletion",
+          "text": ": "
+        },
+        {
+          "change_type": "insertion",
+          "text": ":"
+        },
+        {
+          "change_type": "equal",
+          "text": "Bereich (A-Z"
+        },
+        {
+          "change_type": "deletion",
+          "text": ") "
+        },
+        {
+          "change_type": "insertion",
+          "text": ")"
+        },
+        {
+          "change_type": "equal",
+          "text": "Bereich (A-Z"
+        },
+        {
+          "change_type": "deletion",
+          "text": ") Bereich (Z-A) Produkte (Informationen nur auf Englisch verf\u00fcgbar"
+        },
+        {
+          "change_type": "equal",
+          "text": ") ("
+        },
+        {
+          "change_type": "deletion",
+          "text": "A-Z) Produkte (Informationen nur auf Englisch verf\u00fcgbar) (Z-A"
+        },
+        {
+          "change_type": "insertion",
+          "text": "0_asc"
+        },
+        {
+          "change_type": "equal",
+          "text": ") Spalten"
+        },
+        {
+          "change_type": "deletion",
+          "text": ": Stapel Stapel Swipe Umschalten Bereich Produkte"
+        },
+        {
+          "change_type": "insertion",
+          "text": ":StapelStapel"
+        },
+        {
+          "change_type": "equal",
+          "text": " ("
+        },
+        {
+          "change_type": "deletion",
+          "text": "Informationen nur auf Englisch verf\u00fcgbar"
+        },
+        {
+          "change_type": "insertion",
+          "text": "stack"
+        },
+        {
+          "change_type": "equal",
+          "text": ") Bereich Allgemeine Chirurgie und Elektrochirurgie Produkte (Informationen nur auf Englisch verf\u00fcgbar) Ablation Systems"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Electrosurgical Hardware"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Electrosurgical Instruments"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Electrosurgical Products"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Gastric Neurostimulation System"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Hemostats - Veriset"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Hand Instruments & Ligation Devices"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Hernia Repair"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Hysteroscopy Systems"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Lighted Retractors"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Nerve Monitoring Products"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Sacral Neuromodulation Systems"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Smoke Evacuation"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Surgical Stapling"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Trocars & Access Instruments"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Ultrasonic Dissection"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Vessel Sealing"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Wound Closure"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Bereich Beatmungstherapie Produkte (Informationen nur auf Englisch verf\u00fcgbar) Acute Care Ventilation"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Intubation"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Portable Ventilation"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Tracheostomy"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Ventilator Filters"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Bereich Diabetes Produkte (Informationen nur auf Englisch verf\u00fcgbar) MiniMed 640G Insulin Pump System"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) CareLink \u00ae Pro Therapy Management Software"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) CareLink \u00ae Personal Therapy Management Software"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Infusion Sets"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Guardian TM Connect Continuous Glucose Monitoring System"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) iPro TM 2 Professional CGM I-Port Advance TM (opens new window) Accessories"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Bereich Hals-, Nasen- und Ohrenheilkunde Produkte (Informationen nur auf Englisch verf\u00fcgbar) Ablation Systems"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) ENT Catalog"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Balloon Sinus Dilation"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Biomaterials, Nasal Packing & Ear Packing"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Bone Conductive Hearing Device"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Electrosurgical Hardware"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Electrosurgical Instruments"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Image-Guided Surgery"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Inferior Turbinate Surgical"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Nerve Monitoring"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Powered ENT Instruments"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Sleep-Disordered Breathing"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Smoke Evacuation"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Thyroid and Parathyroid Surgery"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Tonsil & Adenoid Removal"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Ultrasonic Dissection"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Vessel Sealing"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Bereich Gastroenterologie und Proktologie Produkte (Informationen nur auf Englisch verf\u00fcgbar) Capsule Endoscopy Products"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Endoscopic Ultrasound Products"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Gastric Electrical Stimulation Systems"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Gastrointestinal Radiofrequency Ablation Products"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Motility Testing Products"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Reflux Testing Products"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Sacral Neuromodulation Systems"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Bereich Herz- und Gef\u00e4\u00dfkrankheiten Produkte (Informationen nur auf Englisch verf\u00fcgbar) Ablation Products \u2013 Surgical"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Aortic Stent Grafts"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Chronic Total Occlusion Devices Coronary Balloons"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Coronary Catheters"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Coronary Stents"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Deep Venous Products Directional Atherectomy Systems Drug-Coated Balloons Electrosurgical Products"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Embolic Protection System"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Heart Valves \u2013 Surgical"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Heart Valves \u2013 Transcatheter"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Heart Valves - Transcatheter Pulmonary Infusion Therapy Products Interventional Guidewires and Accessories"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Peripheral and Biliary Stents Peripheral Embolization Products PTA Balloons Revascularization Products (Surgical"
+        },
+        {
+          "change_type": "deletion",
+          "text": ") ("
+        },
+        {
+          "change_type": "insertion",
+          "text": ")("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Transradial Experience"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Snares Superficial Vein Products"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Support Catheters Bereich Herzrhythmusst\u00f6rungen Produkte (Informationen nur auf Englisch verf\u00fcgbar) Ablation Products for Arrhythmias"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Ablation Products for Atrial Fibrillation"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Ablation Products for Renal Denervation Ablation Products - Surgical Blood Management and Diagnostics Cannulae Cardiac Diagnostics & Monitoring Cardiac Implantable Electronic Device (CIED) Stabilization"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Cardiac Mapping Products Cardiopulmonary Products Cardiac Resynchronization Therapy (CRT) Systems Continuous Monitoring for Cryptogenic Stroke"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Electrosurgical Products Extracorporeal Life Support (ECLS) Implantable Cardiac Defibrillator (ICD) Systems"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Pacing Systems"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Pediatric Perfusion Products Managing Your Patients"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Renale Denervation bei Bluthochdruck Produkte Bereich Neurologie und Schmerztherapie Produkte (Informationen nur auf Englisch verf\u00fcgbar) Cranial Repair Products Critical Care Products Deep Brain Stimulation Systems Drug Infusion Systems for Chronic Pain"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Drug Infusion Systems for Severe Spasticity"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Hemorrhagic Stroke Products Laser Ablation Technology"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Powered Surgical Instruments"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Revascularization Devices for Acute Ischemic Stroke Shunts"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Epidural spinal cord stimulation (SCS) with the Intellis platform Surgical Imaging Systems"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Surgical Navigation Systems"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Access and Delivery Products Aneurysm Treatment Products Arteriovenous Malformation Embolization Products Bereich Patienten\u00fcberwachung Produkte (Informationen nur auf Englisch verf\u00fcgbar) Brain Monitoring"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Capnography Monitoring"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Cerebral/Somatic Oximetry"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Health Informatics & Monitoring"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) OEM Technology"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Pulse Oximetry"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Bereich Urologie und Urogyn\u00e4kologie Produkte (Informationen nur auf Englisch verf\u00fcgbar) Ablation Systems"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Electrosurgical Hardware"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Electrosurgical Instruments"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Percutaneous Tibial Neuromodulation System"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Sacral Neuromodulation Systems Smoke Evacuation"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Ultrasonic Dissection"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Vessel Sealing"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Bereich Wirbels\u00e4ulenchirurgie und Orthop\u00e4die Produkte (Informationen nur auf Englisch verf\u00fcgbar) Balloon Kyphoplasty"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Electrosurgical Products"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) High-Speed Surgical Drills & Tools"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Nucleus Removal Tools"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Posterior Occipitocervical Upper-Thoracic Reconstructive Systems"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Surgical Imaging Systems Surgical Navigation Systems Tumor Management"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Vertebroplasty"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) More information will follow soon. Kundendienst Senden Sie uns Ihre Bestellungen, Fragen zu Retouren, Reparaturen, Rechnungen, etc. Kundendienst KONTAKT Erfahren Sie mehr zu Therapien und Prozeduren Weiter"
+        },
+        {
+          "change_type": "insertion",
+          "text": " LinkedIn Patienten \u00dcberblick Erkrankungen Therapien und Produkte Diabetes eShop Medizinische Fachpersonen \u00dcberblick Therapien und Prozeduren Produkte und Dienstleistungen Produkthandb\u00fccher Reimbursement Kurse und Weiterbildungen Customer Care Unser Unternehmen Unser Unternehmen Medtronic in der Schweiz Allgemeine Gesch\u00e4ftsbedingungen (AGB) F\u00fchrungspers\u00f6nlichkeiten Unsere Leits\u00e4tze Zahlen und Fakten Weltweite Standorte Karriere Presse und Medien Governance(opens new window) Voice your concern Unsere Position Unsere Position Datenschutzerkl\u00e4rung Nutzungsbedingungen Kontakt Impressum Zuletzt aktualisiert July 2024 \u00a9 2025 Medtronic Tracking technologies and your choices We use tracking technologies to collect and use your personal data for required site functionality, enhanced features, first- and third-party analytics, and first- and third-party targeted marketing. Please select which tracking technologies you wish to allow below or choose \"More details and options\" for more details. You can review either at any time by clicking the green cookie icon at the bottom of the page. More details and options Only accept required Accept all Tracking technologies When you visit our website, use our mobile applications, and interact with us digitally in other ways, we (and, in some cases, third parties) use cookies and similar technologies on your browser to store and collect information. The information collected might relate to you, your preferences, your interactions, your network/household, or your device. These technologies are in part used to make the site work as you expect it to and to provide a more personalized web experience. However, you can choose not to allow certain other uses of these technologies, which may impact your experience of the site and the services we are able to offer. Click on the different category headings to find out more and change your settings according to your preferences. You cannot opt-out of Necessary Cookies as they are deployed in order to ensure the proper functioning of our website (such as prompting the cookie banner and remembering your settings, to log into your account, to redirect you when you log out, etc.). For more information about the technologies used, their purposes, and your rights and how to exercise them, please follow this link: Privacy Notice Allow all Manage Consent Preferences Necessary Cookies Always Active These cookies are necessary for the site to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy or language preferences, logging in or filling in forms. You may disable these by changing your browser settings, but this may affect how the website functions. View Vendor Details\u200e First Party Analytics [x] First Party Analytics These cookies are necessary for the day-to-day operation of the site. They are set and used only by us to produce anonymized statistics about the use of the site to ensure it is performing correctly. You may disable them at any time by changing your cookie preferences in this tool. View Vendor Details\u200e Third Party Analytics [ ] Third Party Analytics These cookies allow us to further analyze visitors' activity on our site so we can measure and improve the effectiveness of our online services. They may be set by us or by third-party analytics solutions. If you don't allow these cookies, we will not be able to monitor the effectiveness of our services. Analytics Cookies [ ] Switch Label label These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance. View Vendor Details\u200e Functionality Cookies [x] Functionality Cookies These cookies enable the website to provide enhanced functionality such as video content. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly. View Vendor Details\u200e Advertising Cookies [ ] Advertising Cookies These cookies may be set through our site by us or our advertising partners. They may be used by those companies to build a profile of your interests and show you personalised ads on other sites based on your browsing history and profile. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. These cookies may also include a range of social media services that we have added to the site to enable you to share our content with your friends and networks. They are capable of tracking your browser across other sites and building up a profile of your interests. This may impact the content and messages you see on other websites you visit. View Vendor Details\u200e Vendors List Search vendors Clear [ ] checkbox label label Apply Cancel Consent Leg.Interest [ ] checkbox label label [ ] checkbox label label [ ] checkbox label label Only accept required Confirm My Choices"
+        }
+      ],
+      "similarity_score": 0.8698719493211567
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/our-company/key-facts.html",
+      "differences": [
+        {
+          "change_type": "equal",
+          "text": "Close Sie verlassen nun die Website von Medtronic Schweiz Sie haben einen Link angeklickt, der auf eine andere Website f\u00fchrt. Wenn Sie fortfahren, verlassen Sie diese Website und werden zu einer Website weitergeleitet, die ausserhalb unseres Verantwortungsbereichs liegt. Medtronic Schweiz pr\u00fcft oder kontrolliert den Inhalt von Websites nicht, die ausserhalb unseres Verantwortungsbereichs liegen. Wir haften nicht f\u00fcr gesch\u00e4ftliche Vorg\u00e4nge oder Abschl\u00fcsse, die Sie auf solchen fremden Websites t\u00e4tigen. Ihre Nutzung fremder Websites unterliegt den Nutzungsbedingungen und den Datenschutzbestimmungen der jeweiligen Website. Schliessen OK"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Ihr Browser ist nicht auf dem aktuellen Stand. Mit einem aktualisierten Browser k\u00f6nnen Sie die Website von Medtronic besser nutzen. Browser jetzt aktualisieren. \u00d7 Hinweis Dieser Bereich der Website richtet sich ausschliesslich an medizinische Fachpersonen (\u00c4rzte, Pflegeberufe, Spitalverwaltung, Krankenkassen etc.). Patienten finden Informationen hier . Schliessen OK "
+        },
+        {
+          "change_type": "insertion",
+          "text": "Patienten Medizinische Fachpersonen Unser Unternehmen Unsere Position Startseite Unser Unternehmen Zahlen und Fakten "
+        },
+        {
+          "change_type": "equal",
+          "text": "Zahlen und Fakten Die Highlights unseres Unternehmens Wir sind das weltweit f\u00fchrende Unternehmen der Gesundheitstechnologie mit mehr als 95.000 Mitarbeitern in 150 L\u00e4ndern. Wir schaffen innovative L\u00f6sungen zur Behandlung von mehr als 70 Erkrankungen von Parkinson bis Diabetes. Unsere Gesundheitstechnologien verbessern bereits jetzt pro Sekunde das Leben von zwei Menschen, aber das ist erst der Anfang. Wir wollen noch mehr Grenzen \u00fcberwinden. Bei all unserem Handeln bleiben wir unserem Motto \u201eEngineering the extraordinary\u201c treu. 191+ aktive klinische Studien 105 Mio. $ Spenden durch Medtronic und die Medtronic Foundation 2.7 Mrd. $ Investitionen in Forschung und Entwicklung \u00dcber 43.000 aktive Patente in unserem Portfolio "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Daten aus dem Gesch\u00e4ftsjahr 2024 "
+        },
+        {
+          "change_type": "equal",
+          "text": "Die Technologien unserer vier Portfolios revolutionieren die Behandlung von \u00fcber 70 Erkrankungen. CARDIOVASCULAR Endoscopy Acute Care and Monitoring Surgical DIABETES Therapies and services for insulin-dependent people who have Type 1 and Type 2 diabetes MEDICAL SURGICAL Gastrointestinal Patient Monitoring Renal Care Solutions Respiratory Interventions Surgical Innovations Surgical Robotics NEUROSCIENCE Cranial and Spinal Technologies Neuromodulation Neurovascular Pelvic Health and Gastric Therapies Ear, Nose, and Throat Open share options Drucken Email Copy Link Facebook Twitter LinkedIn Close share options"
+        },
+        {
+          "change_type": "insertion",
+          "text": " LinkedIn Patienten \u00dcberblick Erkrankungen Therapien und Produkte Diabetes eShop Medizinische Fachpersonen \u00dcberblick Therapien und Prozeduren Produkte und Dienstleistungen Produkthandb\u00fccher Reimbursement Kurse und Weiterbildungen Customer Care Unser Unternehmen Unser Unternehmen Medtronic in der Schweiz Allgemeine Gesch\u00e4ftsbedingungen (AGB) F\u00fchrungspers\u00f6nlichkeiten Unsere Leits\u00e4tze Zahlen und Fakten Weltweite Standorte Karriere Presse und Medien Governance(opens new window) Voice your concern Unsere Position Unsere Position Datenschutzerkl\u00e4rung Nutzungsbedingungen Kontakt Impressum Tracking technologies and your choices We use tracking technologies to collect and use your personal data for required site functionality, enhanced features, first- and third-party analytics, and first- and third-party targeted marketing. Please select which tracking technologies you wish to allow below or choose \"More details and options\" for more details. You can review either at any time by clicking the green cookie icon at the bottom of the page. More details and options Only accept required Accept all Tracking technologies When you visit our website, use our mobile applications, and interact with us digitally in other ways, we (and, in some cases, third parties) use cookies and similar technologies on your browser to store and collect information. The information collected might relate to you, your preferences, your interactions, your network/household, or your device. These technologies are in part used to make the site work as you expect it to and to provide a more personalized web experience. However, you can choose not to allow certain other uses of these technologies, which may impact your experience of the site and the services we are able to offer. Click on the different category headings to find out more and change your settings according to your preferences. You cannot opt-out of Necessary Cookies as they are deployed in order to ensure the proper functioning of our website (such as prompting the cookie banner and remembering your settings, to log into your account, to redirect you when you log out, etc.). For more information about the technologies used, their purposes, and your rights and how to exercise them, please follow this link: Privacy Notice Allow all Manage Consent Preferences Necessary Cookies Always Active These cookies are necessary for the site to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy or language preferences, logging in or filling in forms. You may disable these by changing your browser settings, but this may affect how the website functions. View Vendor Details\u200e First Party Analytics [x] First Party Analytics These cookies are necessary for the day-to-day operation of the site. They are set and used only by us to produce anonymized statistics about the use of the site to ensure it is performing correctly. You may disable them at any time by changing your cookie preferences in this tool. View Vendor Details\u200e Third Party Analytics [ ] Third Party Analytics These cookies allow us to further analyze visitors' activity on our site so we can measure and improve the effectiveness of our online services. They may be set by us or by third-party analytics solutions. If you don't allow these cookies, we will not be able to monitor the effectiveness of our services. Analytics Cookies [ ] Switch Label label These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance. View Vendor Details\u200e Functionality Cookies [x] Functionality Cookies These cookies enable the website to provide enhanced functionality such as video content. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly. View Vendor Details\u200e Advertising Cookies [ ] Advertising Cookies These cookies may be set through our site by us or our advertising partners. They may be used by those companies to build a profile of your interests and show you personalised ads on other sites based on your browsing history and profile. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. These cookies may also include a range of social media services that we have added to the site to enable you to share our content with your friends and networks. They are capable of tracking your browser across other sites and building up a profile of your interests. This may impact the content and messages you see on other websites you visit. View Vendor Details\u200e Vendors List Search vendors Clear [ ] checkbox label label Apply Cancel Consent Leg.Interest [ ] checkbox label label [ ] checkbox label label [ ] checkbox label label Only accept required Confirm My Choices"
+        }
+      ],
+      "similarity_score": 0.35512890811747855
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/our-company/leadership.html",
+      "differences": [
+        {
+          "change_type": "equal",
+          "text": "Close Sie verlassen nun die Website von Medtronic Schweiz Sie haben einen Link angeklickt, der auf eine andere Website f\u00fchrt. Wenn Sie fortfahren, verlassen Sie diese Website und werden zu einer Website weitergeleitet, die ausserhalb unseres Verantwortungsbereichs liegt. Medtronic Schweiz pr\u00fcft oder kontrolliert den Inhalt von Websites nicht, die ausserhalb unseres Verantwortungsbereichs liegen. Wir haften nicht f\u00fcr gesch\u00e4ftliche Vorg\u00e4nge oder Abschl\u00fcsse, die Sie auf solchen fremden Websites t\u00e4tigen. Ihre Nutzung fremder Websites unterliegt den Nutzungsbedingungen und den Datenschutzbestimmungen der jeweiligen Website. Schliessen OK"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Ihr Browser ist nicht auf dem aktuellen Stand. Mit einem aktualisierten Browser k\u00f6nnen Sie die Website von Medtronic besser nutzen. Browser jetzt aktualisieren. \u00d7 Hinweis Dieser Bereich der Website richtet sich ausschliesslich an medizinische Fachpersonen (\u00c4rzte, Pflegeberufe, Spitalverwaltung, Krankenkassen etc.). Patienten finden Informationen hier . Schliessen OK"
+        },
+        {
+          "change_type": "insertion",
+          "text": " Patienten Medizinische Fachpersonen Unser Unternehmen Unsere Position Startseite Unser Unternehmen Leadership"
+        },
+        {
+          "change_type": "equal",
+          "text": " Leadership Sie definieren neue M\u00f6glichkeiten Unser F\u00fchrungsteam gibt uns Impulse f\u00fcr eine f\u00fchrende Position in der Gesundheitstechnologie, nach unserem Motto \u201eEngineering the extraordinary\u201c. Es zeigt uns Perspektiven und neue Ideen f\u00fcr die L\u00f6sung weltweiter Herausforderungen im Gesundheitsbereich auf: So k\u00f6nnen wir neuartige Therapien entwickeln und au\u00dferdem eine positive Rolle f\u00fcr die Gesellschaft spielen. Geoff Martha Chairman & CEO Biographie ansehen Scott Cundy SVP & Chief Quality Officer Que Dallara EVP & President Diabetes Operating Unit Ivan Fong EVP, General Counsel & Secretary Alex Gu SVP & President, Greater China Bob Hopkins SVP & Head of Global Strategy Majid Kaddoumi SVP & President, Europe, Middle East, Africa & Asia-Pacific (EurAsia) Skip Kiil EVP & President, Cardiovascular Portfolio Mike Marinaro EVP & President, Medical Surgical Portfolio and Surgical Operating Unit Laura Mauri, M.D., M.Sc. SVP & Chief Scientific and Medical Officer Torod Neptune SVP & Chief Communications Officer Thierry Pi\u00e9ton EVP & Chief Financial Officer Greg Smith EVP, Enterprise Operations Brett Wall EVP & President, Neuroscience Portfolio Matt Walter Chief Human Resources Officer Ken Washington SVP & Chief Technology and Innovation Officer Der Vorstand von Medtronic Mit Leidenschaft und Integrit\u00e4t zur Erf\u00fcllung unserer Mission Die Mitglieder Open share options Drucken Email Copy Link Close share options"
+        },
+        {
+          "change_type": "insertion",
+          "text": " LinkedIn Patienten \u00dcberblick Erkrankungen Therapien und Produkte Diabetes eShop Medizinische Fachpersonen \u00dcberblick Therapien und Prozeduren Produkte und Dienstleistungen Produkthandb\u00fccher Reimbursement Kurse und Weiterbildungen Customer Care Unser Unternehmen Unser Unternehmen Medtronic in der Schweiz Allgemeine Gesch\u00e4ftsbedingungen (AGB) F\u00fchrungspers\u00f6nlichkeiten Unsere Leits\u00e4tze Zahlen und Fakten Weltweite Standorte Karriere Presse und Medien Governance(opens new window) Voice your concern Unsere Position Unsere Position Datenschutzerkl\u00e4rung Nutzungsbedingungen Kontakt Impressum Tracking technologies and your choices We use tracking technologies to collect and use your personal data for required site functionality, enhanced features, first- and third-party analytics, and first- and third-party targeted marketing. Please select which tracking technologies you wish to allow below or choose \"More details and options\" for more details. You can review either at any time by clicking the green cookie icon at the bottom of the page. More details and options Only accept required Accept all Tracking technologies When you visit our website, use our mobile applications, and interact with us digitally in other ways, we (and, in some cases, third parties) use cookies and similar technologies on your browser to store and collect information. The information collected might relate to you, your preferences, your interactions, your network/household, or your device. These technologies are in part used to make the site work as you expect it to and to provide a more personalized web experience. However, you can choose not to allow certain other uses of these technologies, which may impact your experience of the site and the services we are able to offer. Click on the different category headings to find out more and change your settings according to your preferences. You cannot opt-out of Necessary Cookies as they are deployed in order to ensure the proper functioning of our website (such as prompting the cookie banner and remembering your settings, to log into your account, to redirect you when you log out, etc.). For more information about the technologies used, their purposes, and your rights and how to exercise them, please follow this link: Privacy Notice Allow all Manage Consent Preferences Necessary Cookies Always Active These cookies are necessary for the site to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy or language preferences, logging in or filling in forms. You may disable these by changing your browser settings, but this may affect how the website functions. View Vendor Details\u200e First Party Analytics [x] First Party Analytics These cookies are necessary for the day-to-day operation of the site. They are set and used only by us to produce anonymized statistics about the use of the site to ensure it is performing correctly. You may disable them at any time by changing your cookie preferences in this tool. View Vendor Details\u200e Third Party Analytics [ ] Third Party Analytics These cookies allow us to further analyze visitors' activity on our site so we can measure and improve the effectiveness of our online services. They may be set by us or by third-party analytics solutions. If you don't allow these cookies, we will not be able to monitor the effectiveness of our services. Analytics Cookies [ ] Switch Label label These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance. View Vendor Details\u200e Functionality Cookies [x] Functionality Cookies These cookies enable the website to provide enhanced functionality such as video content. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly. View Vendor Details\u200e Advertising Cookies [ ] Advertising Cookies These cookies may be set through our site by us or our advertising partners. They may be used by those companies to build a profile of your interests and show you personalised ads on other sites based on your browsing history and profile. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. These cookies may also include a range of social media services that we have added to the site to enable you to share our content with your friends and networks. They are capable of tracking your browser across other sites and building up a profile of your interests. This may impact the content and messages you see on other websites you visit. View Vendor Details\u200e Vendors List Search vendors Clear [ ] checkbox label label Apply Cancel Consent Leg.Interest [ ] checkbox label label [ ] checkbox label label [ ] checkbox label label Only accept required Confirm My Choices"
+        }
+      ],
+      "similarity_score": 0.32425821862494075
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/patienten/erkrankungen.html",
+      "differences": [
+        {
+          "change_type": "equal",
+          "text": "Close Sie verlassen nun die Website von Medtronic Schweiz Sie haben einen Link angeklickt, der auf eine andere Website f\u00fchrt. Wenn Sie fortfahren, verlassen Sie diese Website und werden zu einer Website weitergeleitet, die ausserhalb unseres Verantwortungsbereichs liegt. Medtronic Schweiz pr\u00fcft oder kontrolliert den Inhalt von Websites nicht, die ausserhalb unseres Verantwortungsbereichs liegen. Wir haften nicht f\u00fcr gesch\u00e4ftliche Vorg\u00e4nge oder Abschl\u00fcsse, die Sie auf solchen fremden Websites t\u00e4tigen. Ihre Nutzung fremder Websites unterliegt den Nutzungsbedingungen und den Datenschutzbestimmungen der jeweiligen Website. Schliessen OK"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Ihr Browser ist nicht auf dem aktuellen Stand. Mit einem aktualisierten Browser k\u00f6nnen Sie die Website von Medtronic besser nutzen. Browser jetzt aktualisieren. \u00d7 Hinweis Dieser Bereich der Website richtet sich ausschliesslich an medizinische Fachpersonen (\u00c4rzte, Pflegeberufe, Spitalverwaltung, Krankenkassen etc.). Patienten finden Informationen hier . Schliessen OK "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Erkrankungen Informationen f\u00fcr "
+        },
+        {
+          "change_type": "equal",
+          "text": "Patienten "
+        },
+        {
+          "change_type": "deletion",
+          "text": "und"
+        },
+        {
+          "change_type": "insertion",
+          "text": "Medizinische"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Angeh\u00f6rige"
+        },
+        {
+          "change_type": "insertion",
+          "text": "Fachpersonen"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Link"
+        },
+        {
+          "change_type": "insertion",
+          "text": "Unser"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "mit (*) verweisen"
+        },
+        {
+          "change_type": "insertion",
+          "text": "Unternehmen"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "auf Medtronic Schweiz, alle anderen auf"
+        },
+        {
+          "change_type": "insertion",
+          "text": "Unsere"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Medtronic"
+        },
+        {
+          "change_type": "insertion",
+          "text": "Position"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Deutschland. Erfahren"
+        },
+        {
+          "change_type": "insertion",
+          "text": "Startseite"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Sie"
+        },
+        {
+          "change_type": "insertion",
+          "text": "Patienten"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "mehr"
+        },
+        {
+          "change_type": "insertion",
+          "text": "Erkrankungen"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "\u00fcber"
+        },
+        {
+          "change_type": "insertion",
+          "text": "Erkrankungen"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "die"
+        },
+        {
+          "change_type": "insertion",
+          "text": "Informationen"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "folgenden"
+        },
+        {
+          "change_type": "insertion",
+          "text": "f\u00fcr"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Erkrankungen: Bereich"
+        },
+        {
+          "change_type": "insertion",
+          "text": "Patienten"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Erkrankung"
+        },
+        {
+          "change_type": "insertion",
+          "text": "und"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Bereich"
+        },
+        {
+          "change_type": "insertion",
+          "text": "Angeh\u00f6rige"
+        },
+        {
+          "change_type": "equal",
+          "text": " Hirn und Nerven"
+        },
+        {
+          "change_type": "deletion",
+          "text": " Erkrankung"
+        },
+        {
+          "change_type": "equal",
+          "text": " Dystonie"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Essentieller Tremor"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Parkinson-Erkrankung"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Bereich "
+        },
+        {
+          "change_type": "equal",
+          "text": "Diabetes"
+        },
+        {
+          "change_type": "deletion",
+          "text": " Erkrankung"
+        },
+        {
+          "change_type": "equal",
+          "text": " Folgen Sie diesem Link"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) , um zu unserer Diabetes-Website zu gelangen. (*) "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Bereich "
+        },
+        {
+          "change_type": "equal",
+          "text": "Blase, Magen und Darm "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Erkrankung "
+        },
+        {
+          "change_type": "equal",
+          "text": "\u00dcberaktive Blase (Harninkontinenz) (*) mit PRAXISFINDER Harnverhalt (*) Stuhlinkontinenz (*) Gastroparese (*) Darmkrebs"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Reflux-Krankheit"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Chronisches \u00dcbergewicht (Adipositas) (*) Barrett-Syndrom (Barrett-\u00d6sophagus"
+        },
+        {
+          "change_type": "deletion",
+          "text": ") ("
+        },
+        {
+          "change_type": "insertion",
+          "text": ")("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Bereich "
+        },
+        {
+          "change_type": "equal",
+          "text": "Hals, Nase und Ohren "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Erkrankung "
+        },
+        {
+          "change_type": "equal",
+          "text": "Ohrinfektionen"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Nasennebenh\u00f6hlenentz\u00fcndung"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Schilddr\u00fcsenerkrankungen"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) H\u00f6rverlust"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Bereich "
+        },
+        {
+          "change_type": "equal",
+          "text": "Herz und Gef\u00e4\u00dfe "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Erkrankung "
+        },
+        {
+          "change_type": "equal",
+          "text": "Vorhofflimmern"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Bradykardie - langsamer Herzschlag"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Koronare Herzkrankheit"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Ohnmacht"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) (*) Herzschw\u00e4che (Herzinsuffizienz"
+        },
+        {
+          "change_type": "deletion",
+          "text": ") ("
+        },
+        {
+          "change_type": "insertion",
+          "text": ")("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Herzklappenerkrankungen"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Schlaganfall"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) (*) Tachykardie und pl\u00f6tzlicher Herztod"
+        },
+        {
+          "change_type": "deletion",
+          "text": " ("
+        },
+        {
+          "change_type": "insertion",
+          "text": "("
+        },
+        {
+          "change_type": "equal",
+          "text": "opens new window) Krampfadern und chronisch ven\u00f6ser R\u00fcckfluss (*) mit PRAXISFINDER Bluthochdruck (*) "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Bereich "
+        },
+        {
+          "change_type": "equal",
+          "text": "Schmerz und Spastik "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Erkrankung "
+        },
+        {
+          "change_type": "equal",
+          "text": "Chronische Schmerzen (*) mit PRAXISFINDER Schmerzschrittmacher und PRAXISFINDER Schmerzpumpe Neuropathische Schmerzen (*) mit PRAXISFINDER Schmerzschrittmacher Leben mit Krebs (EXTERNER LINK) mit PRAXISFINDER Schmerzpumpe Tumorschmerzen "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Schmerzthera pie"
+        },
+        {
+          "change_type": "insertion",
+          "text": "Schmerztherapie"
+        },
+        {
+          "change_type": "equal",
+          "text": " Tumorschmerzen Facts Spastik mit PRAXISFINDER Spastikpumpe Hirnverletzung Multiple Sklerose R\u00fcckenmarksverletzung Schlaganfall Zerebralparese "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Bereich "
+        },
+        {
+          "change_type": "equal",
+          "text": "Orthop\u00e4die"
+        },
+        {
+          "change_type": "deletion",
+          "text": " Erkrankung"
+        },
+        {
+          "change_type": "equal",
+          "text": " Scoliosis (*) "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Bereich "
+        },
+        {
+          "change_type": "equal",
+          "text": "Urologie"
+        },
+        {
+          "change_type": "deletion",
+          "text": " Erkrankung"
+        },
+        {
+          "change_type": "equal",
+          "text": " \u00dcberaktive Blase (*) mit PRAXISFINDER Harnverhalt (*) Erfahren Sie mehr \u00fcber unsere Produkte und Therapien Weiter"
+        },
+        {
+          "change_type": "insertion",
+          "text": " LinkedIn Patienten \u00dcberblick Erkrankungen Therapien und Produkte Diabetes eShop Medizinische Fachpersonen \u00dcberblick Therapien und Prozeduren Produkte und Dienstleistungen Produkthandb\u00fccher Reimbursement Kurse und Weiterbildungen Customer Care Unser Unternehmen Unser Unternehmen Medtronic in der Schweiz Allgemeine Gesch\u00e4ftsbedingungen (AGB) F\u00fchrungspers\u00f6nlichkeiten Unsere Leits\u00e4tze Zahlen und Fakten Weltweite Standorte Karriere Presse und Medien Governance(opens new window) Voice your concern Unsere Position Unsere Position Datenschutzerkl\u00e4rung Nutzungsbedingungen Kontakt Impressum Tracking technologies and your choices We use tracking technologies to collect and use your personal data for required site functionality, enhanced features, first- and third-party analytics, and first- and third-party targeted marketing. Please select which tracking technologies you wish to allow below or choose \"More details and options\" for more details. You can review either at any time by clicking the green cookie icon at the bottom of the page. More details and options Only accept required Accept all Tracking technologies When you visit our website, use our mobile applications, and interact with us digitally in other ways, we (and, in some cases, third parties) use cookies and similar technologies on your browser to store and collect information. The information collected might relate to you, your preferences, your interactions, your network/household, or your device. These technologies are in part used to make the site work as you expect it to and to provide a more personalized web experience. However, you can choose not to allow certain other uses of these technologies, which may impact your experience of the site and the services we are able to offer. Click on the different category headings to find out more and change your settings according to your preferences. You cannot opt-out of Necessary Cookies as they are deployed in order to ensure the proper functioning of our website (such as prompting the cookie banner and remembering your settings, to log into your account, to redirect you when you log out, etc.). For more information about the technologies used, their purposes, and your rights and how to exercise them, please follow this link: Privacy Notice Allow all Manage Consent Preferences Necessary Cookies Always Active These cookies are necessary for the site to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy or language preferences, logging in or filling in forms. You may disable these by changing your browser settings, but this may affect how the website functions. View Vendor Details\u200e First Party Analytics [x] First Party Analytics These cookies are necessary for the day-to-day operation of the site. They are set and used only by us to produce anonymized statistics about the use of the site to ensure it is performing correctly. You may disable them at any time by changing your cookie preferences in this tool. View Vendor Details\u200e Third Party Analytics [ ] Third Party Analytics These cookies allow us to further analyze visitors' activity on our site so we can measure and improve the effectiveness of our online services. They may be set by us or by third-party analytics solutions. If you don't allow these cookies, we will not be able to monitor the effectiveness of our services. Analytics Cookies [ ] Switch Label label These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance. View Vendor Details\u200e Functionality Cookies [x] Functionality Cookies These cookies enable the website to provide enhanced functionality such as video content. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly. View Vendor Details\u200e Advertising Cookies [ ] Advertising Cookies These cookies may be set through our site by us or our advertising partners. They may be used by those companies to build a profile of your interests and show you personalised ads on other sites based on your browsing history and profile. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. These cookies may also include a range of social media services that we have added to the site to enable you to share our content with your friends and networks. They are capable of tracking your browser across other sites and building up a profile of your interests. This may impact the content and messages you see on other websites you visit. View Vendor Details\u200e Vendors List Search vendors Clear [ ] checkbox label label Apply Cancel Consent Leg.Interest [ ] checkbox label label [ ] checkbox label label [ ] checkbox label label Only accept required Confirm My Choices"
+        }
+      ],
+      "similarity_score": 0.3682451678748826
+    }
+  ]
+}
