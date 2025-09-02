@@ -1,3 +1,4 @@
+/* stylelint-disable no-descending-specificity */
 .hero-container .hero-wrapper {
   max-width: unset;
   padding: 0;
@@ -43,5 +44,110 @@
 @media (width >= 900px) {
   .hero {
     padding: 40px 32px;
+  }
+}
+
+.hero.hero11 {
+  display: flex;
+  flex-direction: row;
+  min-height: 480px;
+  width: 100vw;
+  max-width: 100vw;
+  background: linear-gradient(120deg, #18194a 0%, #142150 100%);
+  box-sizing: border-box;
+  padding: 0;
+  position: relative;
+  overflow: hidden;
+}
+
+/* Text column: right in DOM, must be left visually */
+.hero.hero11 > div:nth-child(2) {
+  order: 1;
+  flex: 0 0 60vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding: 28px 0 0 36px;
+  min-width: 0;
+  box-sizing: border-box;
+  z-index: 2;
+  background: none;
+}
+
+.hero.hero11 > div:nth-child(2) > div {
+  width: 100%;
+  max-width: 600px;
+}
+
+.hero.hero11 > div:nth-child(2) > div > p {
+  color: #e0e0fa;
+  text-transform: uppercase;
+  letter-spacing: 0.32em;
+  font-size: 0.93rem;
+  font-weight: 200;
+  margin-top: 0;
+  margin-bottom: 0.38em;
+  text-align: left;
+}
+
+.hero.hero11 h1 {
+  color: #fff;
+  font-weight: 300;
+  font-size: 3.5rem;
+  line-height: 1.08;
+  letter-spacing: 0.01em;
+  margin-top: 0;
+  margin-bottom: 0;
+  text-align: left;
+  max-width: 100%;
+}
+
+/* Graphic column: left in DOM, must be right visually */
+.hero.hero11 > div:nth-child(1) {
+  order: 2;
+  flex: 1 1 40vw;
+  min-width: 0;
+  min-height: 480px;
+  background: url('https://www.medtronic.com/content/dam/medtronic-wide/public/brand-corporate-assets/imagery/concept/abstract-dark-blue-fractals-sm-hero-cnpt.jpg') center/cover no-repeat;
+  box-sizing: border-box;
+}
+
+@media (width <= 900px) {
+  .hero.hero11 {
+    flex-direction: column;
+    min-height: 340px;
+    width: 100vw;
+    max-width: 100vw;
+  }
+
+  .hero.hero11 > div:nth-child(2) {
+    padding: 20px 10px 10px;
+    max-width: 100vw;
+    flex: 1 1 auto;
+    order: 1;
+  }
+
+  .hero.hero11 > div:nth-child(2) > div {
+    max-width: 100%;
+  }
+
+  .hero.hero11 > div:nth-child(2) > div > p {
+    font-size: 0.81rem;
+    margin-bottom: 0.2em;
+    letter-spacing: 0.21em;
+  }
+
+  .hero.hero11 h1 {
+    font-size: 2.2rem;
+  }
+
+  .hero.hero11 > div:nth-child(1) {
+    min-height: 180px;
+    background-position: center 80px, top;
+    background-size: cover;
+    opacity: 0.7;
+    flex: 1 1 auto;
+    order: 2;
   }
 }
