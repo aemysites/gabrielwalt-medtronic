@@ -2,7 +2,6 @@
   border: 1px solid #dadada;
 }
 
-/* stylelint-disable-next-line no-descending-specificity */
 .accordion details + details {
   margin-top: 24px;
 }
@@ -58,4 +57,85 @@
 .accordion details[open] .accordion-item-body {
   border-top: 1px solid #dadada;
   background-color: var(--background-color);
+}
+
+
+.accordion.accordion22 details {
+  border: none;
+  background: #fff;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.accordion.accordion22 .accordion-item-label {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  position: relative;
+  min-height: 24px;
+  padding-left: 24px;
+  padding-right: 18px; /* closer to the right edge for arrow */
+  background: #fff;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.accordion.accordion22 .accordion-item-label p {
+  margin: 0;
+  color: #394269;
+  text-transform: uppercase;
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: 0.28em;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+}
+
+.accordion.accordion22 .accordion-item-label::-webkit-details-marker {
+  display: none;
+}
+
+/* Arrow - absolutely positioned, very fine and compact, optically centered */
+.accordion.accordion22 .accordion-item-label::after {
+  position: absolute;
+  top: 50%;
+  right: 4px;
+  transform: translateY(-50%) rotate(135deg);
+  width: 8px;
+  height: 8px;
+  border: solid #3954E5;
+  border-width: 1.2px 1.2px 0 0;
+  border-radius: 0.5px;
+  display: block;
+  background: transparent;
+  box-sizing: border-box;
+}
+
+.accordion.accordion22 details[open] .accordion-item-label::after {
+  transform: translateY(-50%) rotate(-45deg);
+}
+
+.accordion.accordion22 .accordion-item-label::marker {
+  color: transparent;
+}
+
+@media (width <= 600px) {
+  .accordion.accordion22 .accordion-item-label {
+    min-height: 28px;
+    padding-left: 12px;
+    padding-right: 10px;
+  }
+
+  .accordion.accordion22 .accordion-item-label::after {
+    right: 2px;
+    width: 7px;
+    height: 7px;
+  }
+
+  .accordion.accordion22 .accordion-item-label p {
+    font-size: 13px;
+    line-height: 28px;
+  }
 }
