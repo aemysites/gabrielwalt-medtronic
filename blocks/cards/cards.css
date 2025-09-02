@@ -352,3 +352,140 @@
     min-width: 0;
   }
 }
+
+
+.cards.cards15 {
+  background: #F5F5F7;
+  padding: 48px 0;
+}
+
+.cards.cards15 > ul {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 32px 24px;
+  list-style: none;
+  margin: 0 auto;
+  padding: 0;
+  max-width: 1200px;
+}
+
+.cards.cards15 > ul > li {
+  background: #fff;
+  border-radius: 14px;
+  box-shadow: 0 2px 10px rgb(18 18 18 / 7%);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  padding: 0;
+  border: none;
+}
+
+.cards.cards15 .cards-card-image {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  min-height: 190px;
+  background: #e8e8ea;
+  display: block;
+  overflow: hidden;
+}
+
+.cards.cards15 .cards-card-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.cards.cards15 .cards-card-body {
+  padding: 16px 20px 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+
+/* Make accent bar actually visible and tight to title */
+.cards.cards15 .cards-card-body h3 {
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: #2323FF;
+  margin: 0 0 2px;
+  padding-left: 14px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  line-height: 1.15;
+  min-height: 26px;
+}
+
+.cards.cards15 .cards-card-body h3::before {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 4px;
+  height: 100%;
+  border-radius: 2px;
+  background: #2323FF;
+  display: block;
+  z-index: 1;
+}
+
+/* Subtitle and link align directly with card (not indented) */
+.cards.cards15 .cards-card-body p,
+.cards.cards15 .cards-card-body .button-container {
+  padding-left: 0;
+  margin-left: 0;
+}
+
+/* Subtitle styling */
+.cards.cards15 .cards-card-body p:not(.button-container) {
+  font-size: 1rem;
+  color: #121212;
+  font-weight: 400;
+  margin: 0 0 0.5em;
+  line-height: 1.28;
+}
+
+/* Link styling (Biographie ansehen) */
+.cards.cards15 .cards-card-body .button-container {
+  margin-top: 2px;
+  margin-bottom: 0;
+  padding-left: 0;
+}
+
+.cards.cards15 .cards-card-body .button-container .button {
+  font-size: 0.89rem;
+  color: #2323FF;
+  background: none;
+  border: none;
+  padding: 0;
+  text-decoration: underline;
+  font-weight: 400;
+  box-shadow: none;
+  border-radius: 0;
+  display: inline;
+  margin: 0;
+  line-height: 1.1;
+}
+
+/* Responsive grid for smaller screens */
+@media (width <= 1000px) {
+  .cards.cards15 > ul {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (width <= 650px) {
+  .cards.cards15 > ul {
+    grid-template-columns: 1fr;
+  }
+
+  .cards.cards15 {
+    padding: 24px 0;
+  }
+
+  .cards.cards15 .cards-card-body {
+    padding-left: 8px;
+    padding-right: 8px;
+  }
+}
