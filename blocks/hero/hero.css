@@ -163,7 +163,6 @@
   box-sizing: border-box;
 }
 
-/* Image column - right side */
 .hero.hero17 > div:first-child {
   flex: 1.3 1 0;
   min-width: 0;
@@ -198,7 +197,6 @@
   max-width: none;
 }
 
-/* Text column - left side */
 .hero.hero17 > div:last-child {
   flex: 0.7 1 0;
   display: flex;
@@ -221,7 +219,6 @@
   justify-content: center;
 }
 
-/* Text styles */
 .hero.hero17 > div:last-child > div > p:first-child {
   color: #6a6a8b;
   font-size: 15px;
@@ -239,7 +236,6 @@
   margin: 0;
 }
 
-/* Responsive adjustments */
 @media (width <= 900px) {
   .hero.hero17 {
     flex-direction: column;
@@ -271,5 +267,93 @@
 
   .hero.hero17 > div:last-child > div > p:last-child {
     font-size: 32px;
+  }
+}
+
+
+.hero.hero19 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  background: #181350;
+  padding: 32px 24px;
+  min-height: 180px;
+  box-sizing: border-box;
+  width: 100%;
+}
+
+.hero.hero19 > div:last-child {
+  order: 1;
+  flex: 1 1 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: #fff;
+  text-align: left;
+  margin-left: 0;
+  margin-right: 0;
+  min-width: 0;
+}
+
+.hero.hero19 > div:first-child {
+  order: 2;
+  flex: 0 0 auto;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  min-width: 160px;
+  max-width: 220px;
+  margin-left: 32px;
+  margin-right: 0;
+}
+
+.hero.hero19 picture,
+.hero.hero19 img {
+  width: 100%;
+  max-width: 200px;
+  min-width: 120px;
+  height: auto;
+  object-fit: cover;
+  display: block;
+  position: static;
+}
+
+.hero.hero19 h3 {
+  color: #fff;
+  font-size: 2rem;
+  font-weight: 400;
+  margin: 0 0 14px;
+  line-height: 1.1;
+}
+
+.hero.hero19 p {
+  color: #fff;
+  font-size: 1rem;
+  margin: 0;
+}
+
+@media (width <= 900px) {
+  .hero.hero19 {
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 20px 12px;
+    min-height: unset;
+  }
+
+  .hero.hero19 > div:first-child,
+  .hero.hero19 > div:last-child {
+    order: unset;
+    flex: unset;
+    margin: 0 0 20px;
+    max-width: 100%;
+    width: 100%;
+    min-width: 0;
+  }
+
+  .hero.hero19 picture,
+  .hero.hero19 img {
+    max-width: 120px;
+    min-width: unset;
   }
 }
