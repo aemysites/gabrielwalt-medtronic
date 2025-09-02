@@ -1,0 +1,81 @@
+{
+  "originUrl": "https://www.medtronic.com",
+  "aborted": false,
+  "urls": [
+    {
+      "url": "https://www.medtronic.com/ch-de/index.html",
+      "source": "MANUAL",
+      "targetPath": "/ch-de",
+      "id": "257f8b86a840814e544dfc1f887b6c5f2f41fb55"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/medizinische-fachpersonen.html",
+      "source": "MANUAL",
+      "targetPath": "/ch-de/medizinische-fachpersonen",
+      "id": "f3403bb6ed9d56644cf9e6845f029b8ea8f0c21d"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/medizinische-fachpersonen/produkte.html",
+      "source": "MANUAL",
+      "targetPath": "/ch-de/medizinische-fachpersonen/produkte",
+      "id": "27f7f303788f07bfb3a11bb38b0a08944d4bf96b"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/medizinische-fachpersonen/therapien-prozeduren.html",
+      "source": "MANUAL",
+      "targetPath": "/ch-de/medizinische-fachpersonen/therapien-prozeduren",
+      "id": "51029476f425dd2e7c41acab49fe8f78e146db17"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/our-company.html",
+      "source": "MANUAL",
+      "targetPath": "/ch-de/our-company",
+      "id": "90fe8e1ee3e979d5db4f9c657c4fb123c6f56148"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/our-company/key-facts.html",
+      "source": "MANUAL",
+      "targetPath": "/ch-de/our-company/key-facts",
+      "id": "c492c71c1a79678e3e425713b7f0becc98fff206"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/our-company/leadership.html",
+      "source": "MANUAL",
+      "targetPath": "/ch-de/our-company/leadership",
+      "id": "004cf660d77f40bc002a924a5a590415b85336ec"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/patienten.html",
+      "source": "MANUAL",
+      "targetPath": "/ch-de/patienten",
+      "id": "7e4556b120ff7309acaf2eb8bbe0a6e7459dffc9"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/patienten/erkrankungen.html",
+      "source": "MANUAL",
+      "targetPath": "/ch-de/patienten/erkrankungen",
+      "id": "690f889aa566b67182e1f65bde481f6c75e62e2c"
+    },
+    {
+      "url": "https://www.medtronic.com/ch-de/patienten/produkte-therapien.html",
+      "source": "MANUAL",
+      "targetPath": "/ch-de/patienten/produkte-therapien",
+      "id": "a5cbbf99306366a6a601aa6345d3b03971835fd0"
+    }
+  ],
+  "lastCrawled": null,
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": 100,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "manual",
+    "strategiesAttempted": [
+      "MANUAL"
+    ]
+  },
+  "extractionErrors": [],
+  "errorCountMessage": "none"
+}
