@@ -60,7 +60,6 @@
   overflow: hidden;
 }
 
-/* Text column: right in DOM, must be left visually */
 .hero.hero11 > div:nth-child(2) {
   order: 1;
   flex: 0 0 60vw;
@@ -103,7 +102,6 @@
   max-width: 100%;
 }
 
-/* Graphic column: left in DOM, must be right visually */
 .hero.hero11 > div:nth-child(1) {
   order: 2;
   flex: 1 1 40vw;
@@ -149,5 +147,129 @@
     opacity: 0.7;
     flex: 1 1 auto;
     order: 2;
+  }
+}
+
+
+.hero.hero17 {
+  display: flex;
+  flex-direction: row;
+  align-items: stretch;
+  min-height: 400px;
+  width: 100vw;
+  max-width: 100vw;
+  background: none;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Image column - right side */
+.hero.hero17 > div:first-child {
+  flex: 1.3 1 0;
+  min-width: 0;
+  display: flex;
+  align-items: stretch;
+  justify-content: flex-end;
+  order: 2;
+  position: relative;
+  height: 100%;
+}
+
+.hero.hero17 > div:first-child > div {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: stretch;
+}
+
+.hero.hero17 picture {
+  width: 100%;
+  height: 100%;
+  display: block;
+  position: relative;
+}
+
+.hero.hero17 img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  min-height: 350px;
+  max-width: none;
+}
+
+/* Text column - left side */
+.hero.hero17 > div:last-child {
+  flex: 0.7 1 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  order: 1;
+  position: relative;
+  min-width: 0;
+  min-height: 350px;
+  box-sizing: border-box;
+  padding: 0 0 0 48px;
+  background: linear-gradient(to right, #fff 58%, rgb(255 255 255 / 0.3%) 100%);
+}
+
+.hero.hero17 > div:last-child > div {
+  width: 100%;
+  max-width: 390px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+/* Text styles */
+.hero.hero17 > div:last-child > div > p:first-child {
+  color: #6a6a8b;
+  font-size: 15px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  margin: 0 0 18px;
+  font-weight: 400;
+}
+
+.hero.hero17 > div:last-child > div > p:last-child {
+  color: #232366;
+  font-size: 56px;
+  font-weight: 300;
+  line-height: 1.13;
+  margin: 0;
+}
+
+/* Responsive adjustments */
+@media (width <= 900px) {
+  .hero.hero17 {
+    flex-direction: column;
+    width: 100vw;
+    min-height: unset;
+  }
+
+  .hero.hero17 > div:first-child,
+  .hero.hero17 > div:last-child {
+    order: unset;
+    width: 100%;
+    min-width: 0;
+    min-height: unset;
+  }
+
+  .hero.hero17 > div:first-child {
+    height: 220px;
+    min-height: 0;
+  }
+
+  .hero.hero17 > div:last-child {
+    padding: 32px 16px;
+    background: #fff;
+  }
+
+  .hero.hero17 > div:last-child > div {
+    max-width: 100%;
+  }
+
+  .hero.hero17 > div:last-child > div > p:last-child {
+    font-size: 32px;
   }
 }
