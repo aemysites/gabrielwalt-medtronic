@@ -31,3 +31,92 @@
     order: unset;
   }
 }
+
+
+.columns.columns2 {
+  background: #1b1743;
+  padding: 0 8px 0 32px;
+  min-height: 54px;
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+
+.columns.columns2 > div {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;
+  width: 100%;
+  min-height: 54px;
+  gap: 0;
+}
+
+.columns.columns2 > div > div {
+  display: flex;
+  align-items: center;
+  position: relative;
+  padding: 0 4px;
+  height: 54px;
+  flex: 0 0 auto;
+}
+
+.columns.columns2 > div > div:first-child {
+  padding-left: 0;
+}
+
+.columns.columns2 > div > div:not(:first-child) {
+  border-left: 1px solid #d7d6e6;
+}
+
+.columns.columns2 .button-container .button {
+  display: inline-block;
+  color: #d7d6e6;
+  background: none;
+  border: none;
+  border-radius: 0;
+  padding: 0;
+  margin: 0;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 54px;
+  box-shadow: none;
+  text-align: left;
+  opacity: 1;
+  visibility: visible;
+}
+
+/* Reset inherited button styles that may hide text */
+.columns.columns2 .button-container {
+  display: flex;
+  align-items: center;
+}
+
+/* Responsive: stack links vertically on small screens */
+@media (width <= 899px) {
+  .columns.columns2 {
+    padding: 0 8px;
+    min-height: 44px;
+  }
+
+  .columns.columns2 > div {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    min-height: 44px;
+  }
+
+  .columns.columns2 > div > div {
+    padding: 6px 0;
+    border-left: none;
+    height: auto;
+  }
+
+  .columns.columns2 > div > div:not(:first-child) {
+    border-top: 1px solid #d7d6e6;
+  }
+
+  .columns.columns2 .button-container .button {
+    line-height: 1.8;
+  }
+}
