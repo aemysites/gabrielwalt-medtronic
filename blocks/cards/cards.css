@@ -613,7 +613,7 @@
   grid-template-columns: 1fr;
   place-items: start start;
   padding: 0;
-  margin: 60px 0 0 80px; /* Add top margin for vertical spacing */
+  margin: 60px 0 0 80px;
   list-style: none;
   background: transparent;
   width: 100%;
@@ -667,12 +667,12 @@
   font-weight: 600;
   color: #222;
   margin: 0 0 8px;
-  padding-left: 14px; /* Narrower padding for bar/text proximity */
+  padding-left: 14px;
   line-height: 1.25;
   display: flex;
   align-items: flex-start;
-  border-left: 4px solid #2D35FF; /* Accent bar */
-  height: 24px; /* Match bar height for vertical alignment */
+  border-left: 4px solid #2D35FF;
+  height: 24px;
   box-sizing: border-box;
 }
 
@@ -716,4 +716,101 @@
     min-height: 100px;
     height: 100px;
   }
+}
+
+
+.cards.cards32 {
+  background: #f5f5f5;
+  padding: 40px 0;
+}
+
+/* Cards Grid Layout */
+.cards.cards32 > ul {
+  display: grid;
+  grid-template-columns: repeat(3, 320px);
+  gap: 32px;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+@media (width <= 1000px) {
+  .cards.cards32 > ul {
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: 24px;
+  }
+}
+
+/* Card container styling */
+.cards.cards32 > ul > li {
+  background: #fff;
+  border: 1px solid #e0e0e0;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgb(0 0 0 / 6%);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  min-height: 410px;
+}
+
+/* Image container */
+.cards.cards32 .cards-card-image {
+  width: 100%;
+  height: 220px;
+  background: #f3f3f3;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.cards.cards32 .cards-card-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  border-radius: 0;
+}
+
+/* Card body section with accent line and top-aligned text */
+.cards.cards32 .cards-card-body {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  background: #fff;
+  padding: 28px 22px 22px 0;
+  min-height: 140px;
+}
+
+/* Accent line as a side child using flexbox */
+.cards.cards32 .cards-card-body::before {
+  display: inline-block;
+  height: 70px;
+  width: 5px;
+  background: #0050d8;
+  border-radius: 2px;
+  margin-right: 16px;
+  content: '';
+}
+
+/* Text block next to accent line */
+.cards.cards32 .cards-card-body > h3,
+.cards.cards32 .cards-card-body > p {
+  margin-left: 0;
+}
+
+/* Title and description styling */
+.cards.cards32 .cards-card-body h3 {
+  color: #0050d8;
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin: 0 0 8px;
+  line-height: 1.2;
+}
+
+.cards.cards32 .cards-card-body p {
+  color: #616161;
+  font-size: 1rem;
+  margin: 0;
+  line-height: 1.5;
 }
