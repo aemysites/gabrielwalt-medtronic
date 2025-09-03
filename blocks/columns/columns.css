@@ -1,3 +1,4 @@
+/* stylelint-disable no-descending-specificity */
 .columns > div {
   display: flex;
   flex-direction: column;
@@ -86,13 +87,11 @@
   visibility: visible;
 }
 
-/* Reset inherited button styles that may hide text */
 .columns.columns2 .button-container {
   display: flex;
   align-items: center;
 }
 
-/* Responsive: stack links vertically on small screens */
 @media (width <= 899px) {
   .columns.columns2 {
     padding: 0 8px;
@@ -118,5 +117,106 @@
 
   .columns.columns2 .button-container .button {
     line-height: 1.8;
+  }
+}
+
+
+.columns.columns6 {
+  background: #19144a;
+  border-bottom: 1px solid #fff;
+  padding: 32px 0 24px;
+}
+
+/* Make columns row fully edge-to-edge, no artificial width or margin */
+.columns.columns6 > div {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 64px; /* Increased for a more airy, original look */
+  padding: 0;
+  margin: 0;
+  max-width: unset;
+  width: 100%;
+  box-sizing: border-box;
+  background: none;
+}
+
+/* Individual columns: evenly flexible */
+.columns.columns6 > div > div {
+  flex: 1 1 0;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Headings: uppercase, bold, white */
+.columns.columns6 h3 {
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 15px;
+  color: #fff;
+  margin: 0 0 16px;
+  letter-spacing: 0.02em;
+}
+
+/* Anchor in heading */
+.columns.columns6 h3 a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+/* List styling */
+.columns.columns6 ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+/* List item spacing and alignment */
+.columns.columns6 ul li {
+  margin-bottom: 8px;
+  font-size: 14px;
+  color: #fff;
+  line-height: 1.5;
+  display: flex;
+  align-items: center;
+}
+
+.columns.columns6 ul li:last-child {
+  margin-bottom: 0;
+}
+
+/* Links: white, subtle hover */
+.columns.columns6 ul li a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 14px;
+  transition: color 0.15s;
+}
+
+.columns.columns6 ul li a:hover,
+.columns.columns6 ul li a:focus {
+  color: #b9b6e3;
+  text-decoration: underline;
+}
+
+/* Icons in list items */
+.columns.columns6 ul li picture,
+.columns.columns6 ul li img {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  margin-left: 6px;
+  vertical-align: middle;
+}
+
+/* Responsive: stack columns vertically and add padding on mobile */
+@media (width <= 900px) {
+  .columns.columns6 > div {
+    flex-direction: column;
+    gap: 32px;
+    padding: 0 16px;
   }
 }
