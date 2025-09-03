@@ -1,3 +1,4 @@
+/* stylelint-disable no-descending-specificity */
 .columns > div {
   display: flex;
   flex-direction: column;
@@ -86,13 +87,11 @@
   visibility: visible;
 }
 
-/* Reset inherited button styles that may hide text */
 .columns.columns2 .button-container {
   display: flex;
   align-items: center;
 }
 
-/* Responsive: stack links vertically on small screens */
 @media (width <= 899px) {
   .columns.columns2 {
     padding: 0 8px;
@@ -118,5 +117,101 @@
 
   .columns.columns2 .button-container .button {
     line-height: 1.8;
+  }
+}
+
+
+.columns.columns5 {
+  background-color: #1b1d3e;
+  background-image: linear-gradient(rgb(27 29 62 / 96%), rgb(27 29 62 / 92%)),
+    url("https://www.medtronic.com/content/dam/medtronic-wide/public/brand-corporate-assets/imagery/concept/abstract-dark-blue-fractals-sm-hero-cnpt.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  min-height: 32px;
+  width: 100%;
+  padding: 0;
+  box-sizing: border-box;
+  display: block;
+}
+
+/* Navigation row: tightly group items left, no flex grow, minimal gap, minimal left padding */
+.columns.columns5 > div {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 16px; /* tighter spacing between links */
+  min-height: 32px;
+  height: 32px;
+  width: 100%;
+  padding-left: 4px; /* almost flush to the left edge */
+  padding-right: 0;
+  box-sizing: border-box;
+  justify-content: flex-start;
+}
+
+/* Prevent nav items from stretching, only content width */
+.columns.columns5 > div > div {
+  flex: 0 0 auto;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  height: 32px;
+}
+
+/* Make links look like plain nav text */
+.columns.columns5 .button {
+  background: none;
+  color: #fff;
+  font-size: 13px;
+  font-weight: 500;
+  border: none;
+  border-radius: 0;
+  padding: 0;
+  margin: 0;
+  min-width: unset;
+  min-height: unset;
+  height: 32px;
+  line-height: 32px;
+  text-align: left;
+  box-shadow: none;
+  text-decoration: none;
+  display: inline-block;
+  vertical-align: middle;
+  cursor: pointer;
+  overflow: visible;
+  white-space: nowrap;
+}
+
+/* Subtle underline and color shift on hover for accessibility */
+.columns.columns5 .button:hover,
+.columns.columns5 .button:focus {
+  text-decoration: underline;
+  color: #b3c7fa;
+  background: none;
+}
+
+/* Remove default paragraph spacing in button-container */
+.columns.columns5 .button-container {
+  margin: 0;
+  padding: 0;
+  line-height: 1;
+}
+
+/* Responsive: stack links vertically on small screens */
+@media (width <= 700px) {
+  .columns.columns5 > div {
+    flex-direction: column;
+    gap: 8px;
+    padding: 8px 0;
+    height: auto;
+    min-height: unset;
+  }
+
+  .columns.columns5 > div > div,
+  .columns.columns5 .button {
+    height: auto;
+    line-height: normal;
   }
 }
