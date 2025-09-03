@@ -357,3 +357,99 @@
     min-width: unset;
   }
 }
+
+
+.hero-container > .hero-wrapper {
+  max-width: unset;
+  padding: 0;
+}
+
+.hero.hero27 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  min-height: 680px;
+  width: 100vw;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  position: relative;
+  background: url('https://www.medtronic.com/content/dam/medtronic-wide/public/brand-corporate-assets/imagery/lifestyle/general/man-woman-mri-office-life.jpg') center right/cover no-repeat;
+}
+
+.hero.hero27 > div:first-child {
+  flex: 0 0 0;
+  min-width: 0;
+  max-width: 0;
+}
+
+.hero.hero27 > div:last-child {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  max-width: 390px;
+  padding: 8px 0 0 8px;
+  margin: 0;
+  background: none;
+  min-height: 100%;
+  width: 100%;
+}
+
+.hero.hero27 > div:last-child > div {
+  width: 100%;
+}
+
+.hero.hero27 p:first-child {
+  text-transform: uppercase;
+  color: #888;
+  font-size: 1rem;
+  font-weight: 400;
+  margin-top: 0;
+  margin-bottom: 1em;
+  letter-spacing: 0.14em;
+  text-align: left;
+}
+
+.hero.hero27 h1 {
+  font-weight: 400;
+  color: #22305A;
+  font-size: 3rem;
+  line-height: 1.12;
+  margin: 0 0 1.1em;
+  text-align: left;
+  letter-spacing: 0.01em;
+}
+
+.hero.hero27 p:last-child {
+  color: #888;
+  font-size: 1.08rem;
+  font-weight: 300;
+  margin-top: 0.25em;
+  margin-bottom: 0;
+  max-width: 100%;
+  text-align: left;
+}
+
+@media (width <= 900px) {
+  .hero.hero27 {
+    flex-direction: column;
+    min-height: 340px;
+    margin-left: 0;
+    margin-right: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    background-position: center top;
+  }
+
+  .hero.hero27 > div:first-child {
+    display: none;
+  }
+
+  .hero.hero27 > div:last-child {
+    padding: 10px 4px;
+    max-width: 100%;
+  }
+}
