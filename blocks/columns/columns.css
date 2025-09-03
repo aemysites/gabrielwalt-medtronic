@@ -397,3 +397,168 @@
     flex-basis: auto;
   }
 }
+
+
+/* Ensure no left column children are hidden (from previous overly-specific rules) */
+.columns.columns21 > div > div:first-child > * {
+  display: block;
+  visibility: visible;
+  margin-bottom: 18px;
+}
+
+.columns.columns21 > div > div:first-child > *:last-child {
+  margin-bottom: 0;
+}
+
+/* Main block setup */
+.columns.columns21 {
+  background: #f7f7f7;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: stretch;
+  padding: 48px 0;
+  box-sizing: border-box;
+}
+
+/* Row: two columns side by side at desktop */
+.columns.columns21 > div {
+  display: flex;
+  flex-direction: row;
+  max-width: 960px;
+  width: 100%;
+  background: none;
+  gap: 0;
+  border-radius: 0;
+  box-sizing: border-box;
+  position: relative;
+}
+
+/* Left column: white, top/left aligned, vertical stack */
+.columns.columns21 > div > div:first-child {
+  background: #fff;
+  flex: 0 1 420px;
+  min-width: 320px;
+  max-width: 520px;
+  padding: 40px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+
+/* Blue bar: always visible and sized */
+.columns.columns21 > div > div:first-child picture img {
+  display: block;
+  width: 36px;
+  height: 6px;
+  object-fit: contain;
+  margin-bottom: 12px;
+  margin-top: 0;
+}
+
+/* Section label styling */
+.columns.columns21 > div > div:first-child p strong {
+  color: #151958;
+  font-size: 13px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  margin-bottom: 7px;
+  margin-top: 0;
+  display: block;
+}
+
+/* Main heading styling */
+.columns.columns21 > div > div:first-child h3 {
+  color: #151958;
+  font-size: 28px;
+  font-weight: 600;
+  margin-bottom: 16px;
+  margin-top: 0;
+  line-height: 1.15;
+}
+
+/* Body text */
+.columns.columns21 > div > div:first-child p:not(.button-container, :first-child) {
+  color: #333;
+  font-size: 16px;
+  font-weight: 400;
+  margin-bottom: 18px;
+  margin-top: 0;
+}
+
+/* Button/link alignment and style */
+.columns.columns21 > div > div:first-child .button-container {
+  margin: 0;
+  width: 100%;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 0;
+}
+
+.columns.columns21 > div > div:first-child .button {
+  background: none;
+  border: none;
+  color: #3345a3;
+  font-size: 15px;
+  text-decoration: underline;
+  border-radius: 0;
+  padding: 0;
+  margin: 0;
+  min-width: unset;
+  box-shadow: none;
+  text-align: left;
+  font-weight: 500;
+}
+
+.columns.columns21 > div > div:first-child .button:hover,
+.columns.columns21 > div > div:first-child .button:focus {
+  color: #151958;
+  border: none;
+  text-decoration: underline;
+}
+
+/* Right column: navy, center image */
+.columns.columns21 > div > .columns-img-col {
+  background: #16143a;
+  flex: 1 1 480px;
+  min-width: 340px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  padding: 0;
+}
+
+.columns.columns21 > div > .columns-img-col picture,
+.columns.columns21 > div > .columns-img-col img {
+  max-width: 90%;
+  height: auto;
+  margin: auto;
+  display: block;
+}
+
+/* Responsive: stack on mobile */
+@media (width <= 900px) {
+  .columns.columns21 > div {
+    flex-direction: column;
+    max-width: 98vw;
+    gap: 0;
+    align-items: stretch;
+  }
+
+  .columns.columns21 > div > div:first-child,
+  .columns.columns21 > div > .columns-img-col {
+    min-width: 0;
+    width: 100%;
+    max-width: 100%;
+    padding: 24px;
+  }
+
+  .columns.columns21 > div > .columns-img-col {
+    min-height: 180px;
+  }
+}
