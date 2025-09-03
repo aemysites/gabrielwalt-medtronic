@@ -157,7 +157,6 @@
   padding: 0;
 }
 
-/* HEADER ROW */
 .accordion.accordion23 summary {
   display: flex;
   flex-direction: row;
@@ -190,7 +189,6 @@
   text-overflow: ellipsis;
 }
 
-/* CHEVRON STYLES */
 .accordion.accordion23 summary::after {
   display: inline-block;
   width: 14px;
@@ -207,7 +205,6 @@
   transform: rotate(135deg);
 }
 
-/* ACCORDION BODY (CONTENT PANEL) */
 .accordion.accordion23 .accordion-item-body {
   background: #f5f5f7;
   margin: 0;
@@ -225,7 +222,6 @@
   white-space: pre-line;
 }
 
-/* Responsive: Reduce padding on smaller screens */
 @media (width <= 599px) {
   .accordion.accordion23 {
     max-width: 100%;
@@ -239,4 +235,104 @@
   .accordion.accordion23 .accordion-item-body {
     padding: 18px 10px;
   }
+}
+
+
+.accordion.accordion33 {
+  border: none;
+  border-bottom: 1px solid #ededed;
+  background: #fff;
+  margin: 0;
+  padding: 0;
+}
+
+.accordion.accordion33 details {
+  border: none;
+  margin: 0;
+  padding: 0;
+}
+
+/* Use flex row, center items vertically for side-by-side layout */
+.accordion.accordion33 details summary {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  min-height: 32px;
+  padding: 0 8px;
+  background: #fff;
+  position: relative;
+  box-sizing: border-box;
+  cursor: pointer;
+  border: none;
+  margin: 0;
+  transition: background-color 0.2s;
+  overflow: visible;
+}
+
+/* Remove highlight on hover/focus/open */
+.accordion.accordion33 details summary:focus,
+.accordion.accordion33 details summary:hover,
+.accordion.accordion33 details[open] summary {
+  background-color: #fff;
+}
+
+/* Remove native summary marker */
+.accordion.accordion33 details summary::-webkit-details-marker {
+  display: none;
+}
+
+/* Accordion label row: side-by-side, vertically centered */
+.accordion.accordion33 .accordion-item-label {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 100%;
+  justify-content: space-between;
+}
+
+/* Label text: uppercase, gray, tracking, compact line height */
+.accordion.accordion33 .accordion-item-label p,
+.accordion.accordion33 .accordion-item-label strong {
+  font-size: 12px;
+  color: #4a4a4a;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  margin: 0;
+  padding: 0;
+  line-height: 1.2;
+}
+
+/* Chevron: blue, thinner, optically aligned, smaller size */
+.accordion.accordion33 details summary::after {
+  position: absolute;
+  right: 4px;
+  top: 50%;
+  transform: translateY(-50%) rotate(45deg);
+  width: 12px;
+  height: 12px;
+  border: solid #3c5afa;
+  border-width: 0 2px 2px 0;
+  box-sizing: border-box;
+  background: none;
+  border-radius: 0;
+  pointer-events: none;
+}
+
+/* Rotate chevron up on open */
+.accordion.accordion33 details[open] summary::after {
+  transform: translateY(-50%) rotate(-135deg);
+}
+
+/* Body padding and background cleanup */
+.accordion.accordion33 details .accordion-item-body {
+  padding: 0 8px;
+  border: none;
+  background: #fff;
+}
+
+.accordion.accordion33 details[open] .accordion-item-body {
+  border-top: none;
+  background: #fff;
 }
