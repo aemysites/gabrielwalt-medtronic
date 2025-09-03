@@ -554,8 +554,6 @@
 
 .columns.columns31 {
   background: #fff;
-
-  /* Add compact but balanced vertical padding for breathing room */
   padding-top: 18px;
   padding-bottom: 18px;
   min-height: 120px;
@@ -564,7 +562,6 @@
   justify-content: center;
 }
 
-/* Main row: flex row for side-by-side columns, vertically centered */
 .columns.columns31 > div {
   display: flex;
   flex-direction: row;
@@ -578,7 +575,6 @@
   min-height: 0;
 }
 
-/* Responsive stacking for smaller screens */
 @media (width <= 700px) {
   .columns.columns31 > div {
     flex-direction: column;
@@ -593,7 +589,6 @@
   }
 }
 
-/* Each column: vertical stack and center text */
 .columns.columns31 > div > div {
   display: flex;
   flex-direction: column;
@@ -608,12 +603,10 @@
   box-sizing: border-box;
 }
 
-/* Un-hide all children of columns if hidden by previous rules */
 .columns.columns31 > div > div > :not(:first-child) {
   display: block;
 }
 
-/* Number: large, blue, with slightly increased bottom margin for visual balance */
 .columns.columns31 > div > div > p {
   font-size: 48px;
   font-weight: 300;
@@ -624,7 +617,6 @@
   text-align: center;
 }
 
-/* Description: smaller, gray, max width, center aligned */
 .columns.columns31 > div > div > h3 {
   font-size: 14px;
   font-weight: 400;
@@ -634,4 +626,115 @@
   text-align: center;
   max-width: 320px;
   white-space: normal;
+}
+
+
+.columns.columns5 {
+  background: #181b38 url("https://www.medtronic.com/content/dam/medtronic-wide/public/brand-corporate-assets/imagery/concept/abstract-dark-blue-fractals-sm-hero-cnpt.jpg") no-repeat center/cover;
+  min-height: 36px;
+  height: 36px;
+  width: 100vw;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  align-items: stretch;
+  box-sizing: border-box;
+}
+
+/* Use grid for even distribution, force edge alignment for first/last */
+.columns.columns5 > div {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  align-items: center;
+  width: 100vw;
+  height: 100%;
+  gap: 0;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+/* Remove default justify-content, customize per column for edge-to-edge alignment */
+.columns.columns5 > div > div {
+  display: flex;
+  align-items: center;
+  background: none;
+  margin: 0;
+  padding: 0;
+  min-width: 0;
+  min-height: 0;
+  border-radius: 0;
+  box-sizing: border-box;
+  height: 100%;
+}
+
+/* First column: left-aligned */
+.columns.columns5 > div > div:first-child {
+  justify-content: flex-start;
+}
+
+/* Last column: right-aligned */
+.columns.columns5 > div > div:last-child {
+  justify-content: flex-end;
+}
+
+/* Middle columns: center-aligned */
+.columns.columns5 > div > div:nth-child(2),
+.columns.columns5 > div > div:nth-child(3) {
+  justify-content: center;
+}
+
+.columns.columns5 .button-container {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  height: 100%;
+}
+
+.columns.columns5 .button {
+  background: none;
+  border: none;
+  border-radius: 0;
+  color: #fff;
+  font-size: 13px;
+  font-weight: 400;
+  padding: 0;
+  margin: 0;
+  min-width: unset;
+  max-width: unset;
+  box-shadow: none;
+  text-align: left;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  line-height: 1.2;
+  transition: color 0.15s;
+  display: inline;
+}
+
+.columns.columns5 .button:hover,
+.columns.columns5 .button:focus {
+  color: #b5bfe6;
+  background: none;
+  border: none;
+  text-decoration: underline;
+}
+
+/* Responsive: stack vertically on smaller screens */
+@media (width <= 700px) {
+  .columns.columns5 > div {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12px;
+    padding: 0 12px;
+    width: 100%;
+  }
+
+  .columns.columns5 {
+    min-height: 36px;
+    height: auto;
+    width: 100%;
+  }
 }
