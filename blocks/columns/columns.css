@@ -1,7 +1,12 @@
 /* stylelint-disable no-descending-specificity */
 .columns > div {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
+  gap: 56px;
+  align-items: center;
+  width: 100%;
+  max-width: 1000px;
+  margin: 0 auto;
 }
 
 .columns img {
@@ -127,13 +132,12 @@
   padding: 32px 0 24px;
 }
 
-/* Make columns row fully edge-to-edge, no artificial width or margin */
 .columns.columns6 > div {
   display: flex;
   flex-direction: row;
   justify-content: flex-start;
   align-items: flex-start;
-  gap: 64px; /* Increased for a more airy, original look */
+  gap: 64px;
   padding: 0;
   margin: 0;
   max-width: unset;
@@ -142,7 +146,6 @@
   background: none;
 }
 
-/* Individual columns: evenly flexible */
 .columns.columns6 > div > div {
   flex: 1 1 0;
   min-width: 0;
@@ -150,7 +153,6 @@
   flex-direction: column;
 }
 
-/* Headings: uppercase, bold, white */
 .columns.columns6 h3 {
   text-transform: uppercase;
   font-weight: bold;
@@ -160,21 +162,18 @@
   letter-spacing: 0.02em;
 }
 
-/* Anchor in heading */
 .columns.columns6 h3 a {
   color: #fff;
   text-decoration: none;
   font-weight: bold;
 }
 
-/* List styling */
 .columns.columns6 ul {
   list-style: none;
   margin: 0;
   padding: 0;
 }
 
-/* List item spacing and alignment */
 .columns.columns6 ul li {
   margin-bottom: 8px;
   font-size: 14px;
@@ -188,7 +187,6 @@
   margin-bottom: 0;
 }
 
-/* Links: white, subtle hover */
 .columns.columns6 ul li a {
   color: #fff;
   text-decoration: none;
@@ -202,7 +200,6 @@
   text-decoration: underline;
 }
 
-/* Icons in list items */
 .columns.columns6 ul li picture,
 .columns.columns6 ul li img {
   display: inline-block;
@@ -212,11 +209,119 @@
   vertical-align: middle;
 }
 
-/* Responsive: stack columns vertically and add padding on mobile */
 @media (width <= 900px) {
   .columns.columns6 > div {
     flex-direction: column;
     gap: 32px;
     padding: 0 16px;
+  }
+}
+
+
+.columns {
+  background: #fff;
+  padding: 48px 0;
+  display: flex;
+  justify-content: center;
+}
+
+/* Top-level arrangement: two columns side by side */
+
+/* Left column: image placeholder with centered button */
+.columns > div > div:first-child {
+  flex: 1 1 40%;
+  background: #ebebeb;
+  min-height: 260px;
+  min-width: 340px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 0;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* Only show the first button in left column, hide additional elements if present */
+.columns > div > div:first-child > :not(:first-child) {
+  display: none;
+}
+
+.columns > div > div:first-child .button-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: auto;
+  margin: 0;
+  padding: 0;
+}
+
+/* Right column: stack all buttons vertically and left align */
+.columns > div > div:not(:first-child) {
+  flex: 1 1 60%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 28px;
+  min-width: 320px;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+/* Each button in right column: left aligned, allow natural width */
+.columns > div > div:not(:first-child) > * {
+  width: auto;
+  align-self: flex-start;
+  margin: 0;
+  padding: 0;
+}
+
+/* Button styling to match outlined look */
+.columns .button-container .button {
+  background: #fff;
+  color: #292766;
+  border: 1.5px solid #292766;
+  border-radius: 24px;
+  font-size: 1rem;
+  padding: 8px 24px;
+  margin: 0;
+  box-shadow: none;
+  transition: background 0.2s, color 0.2s, border-color 0.2s;
+  min-width: 220px;
+  max-width: 100%;
+  text-align: left;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.columns .button-container .button:hover,
+.columns .button-container .button:focus {
+  background: #292766;
+  color: #fff;
+  border-color: #292766;
+}
+
+/* Remove default margins from button containers */
+.columns .button-container {
+  margin: 0;
+  padding: 0;
+}
+
+/* Responsive: stack columns vertically on small screens */
+@media (width <= 900px) {
+  .columns > div {
+    flex-direction: column;
+    gap: 32px;
+    max-width: 98vw;
+    align-items: stretch;
+  }
+
+  .columns > div > div:first-child,
+  .columns > div > div:not(:first-child) {
+    min-width: 0;
+    width: 100%;
   }
 }
